@@ -39,6 +39,8 @@ Steensig, Jakob, Karen Kiil Brøcker, Caroline Grønkjær, Magnus Glenvad Tind H
 
 ### Articles in conference proceedings
 
+
+
 **Puggaard-Rode, Rasmus**. 2023. The /t/ release in Jutland Danish. Decomposing the spectrum with functional PCA. In Radek Skarnitzl & Jan Volín (eds.), *Proceedings of the 20th International Congress of Phonetic Sciences*, 3262--3266. Guarant. [pdf](https://rpuggaardrode.github.io/icphs2023/index.pdf){target='_blank'} | [html](https://rpuggaardrode.github.io/icphs2023/){target='_blank'}
 
 Horslund, Camilla Søballe, Henrik Jørgensen & **Rasmus Puggaard**. 2021. En alternativ, fonetisk baseret fonemanalyse af det danske konsonantsystem. In Yonatan Goldshtein, Inger Schoonderbeek Hansen & Tina Thode Hougaard (eds.), *18. møde om udforskningen af dansk sprog*, 251--267. Aarhus University. [pdf](https://rasmuspuggaard.files.wordpress.com/2021/09/horslund-et-al-2021_en-alternativ-fonetisk-baseret-fonemanalyse-af-det-danske-konsonantsystem.pdf){target='_blank'} | [full volume](https://projekter.au.dk/fileadmin/projekter/Muds.dk/rapporter/MUDS_18.pdf){target='_blank'}
@@ -62,6 +64,10 @@ Goldshtein, Yonatan & **Rasmus Puggaard**. 2019. Overblik over danske dialektopt
 ## Presentations
 
 ### Conference and workshop presentations
+
+Jepson, Kathleen, **Rasmus Puggaard-Rode** & John Mansfield. "Stylised sustained prosody in three Australian languages". *Speech Prosody* 12, July 2--5, 2024, Leiden University.
+
+Kirby, James, **Rasmus Puggaard-Rode**, Francesco Burroni & Sireemas Maspong. "Effects of coda consonants on preceding vowel F0 in Eastern Khmu'". *Speech Prosody* 12, July 2--5, 2024, Leiden University.
 
 **Puggaard-Rode, Rasmus** & Francesco Burroni. "Articulation of the Danish soft d. A pilot study using electromagnetic articulography". *Fonologi i Norden* 9, February 23--24, 2024, Stockholm University. [abstract](https://rasmuspuggaard.files.wordpress.com/2024/02/2024_fino_ema.pdf){target='_blank'} | [slides](https://docs.google.com/presentation/d/1lhkyudvFLol1VY0WZOnSol8ewAOZAteIXMFxZZM1-dE/edit?usp=sharing){target='_blank'}
 
