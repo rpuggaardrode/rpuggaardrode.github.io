@@ -160,6 +160,8 @@ Steensig, Jakob & **Rasmus Puggaard**. “A syntax for conversation. Social acti
 
 ### Departmental talks and guest lectures
 
+Jepson, Kathleen & **Rasmus Puggaard-Rode**. "An iconic prosodic pattern in three Australian languages", Institute for Phonetics and Speech Processing PhD and Postdoc Kolloquium, April 25, 2024, Ludwig Maximilian University of Munich.
+
 [see [Puggaard-Rode 2023--2024](https://github.com/rpuggaardrode/praatpicture){target='_blank'}]{.aside}
 **Puggaard-Rode, Rasmus**. "Introducing `praatpicture`, an R package for people who like the way Praat's figures look but would prefer not to make them in Praat", Institute for Phonetics and Speech Processing PhD and Postdoc Kolloquium, February 1, 2024, Ludwig Maximilian University of Munich.
 
