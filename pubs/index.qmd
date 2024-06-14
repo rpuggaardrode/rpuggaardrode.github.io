@@ -39,7 +39,7 @@ Steensig, Jakob, Karen Kiil Brøcker, Caroline Grønkjær, Magnus Glenvad Tind H
 
 ### Articles in conference proceedings
 
-**Puggaard-Rode, Rasmus**. 2024. `praatpicture`. A library for making flexible Praat Picture-style figures in R. In Cécile Fougerin & Pascal Perrier (eds.), *Proceedings of the 13th International Seminar on Speech Production*, 115--118. [pdf](https://issp24.sciencesconf.org/data/pages/proceedings_long_papers.pdf#page=157){target='_blank'}
+**Puggaard-Rode, Rasmus**. 2024. `praatpicture`. A library for making flexible Praat Picture-style figures in R. In Cécile Fougeron & Pascal Perrier (eds.), *Proceedings of the 13th International Seminar on Speech Production*, 115--118. [pdf](https://issp24.sciencesconf.org/data/pages/proceedings_long_papers.pdf#page=157){target='_blank'}
 
 **Puggaard-Rode, Rasmus**. 2023. The /t/ release in Jutland Danish. Decomposing the spectrum with functional PCA. In Radek Skarnitzl & Jan Volín (eds.), *Proceedings of the 20th International Congress of Phonetic Sciences*, 3262--3266. Guarant. [pdf](https://rpuggaardrode.github.io/icphs2023/index.pdf){target='_blank'} | [html](https://rpuggaardrode.github.io/icphs2023/){target='_blank'}
 
@@ -216,7 +216,7 @@ Grijzenhout, Janet, **Rasmus Puggaard** & Bert Botma. “On pees and bees”, op
 
 ### Software
 
-`praatpicture`. *Make Praat Picture style plots of acoustic data*. R package version 1.0.0. (August 2023--January 2024) [Available on CRAN](https://cran.r-project.org/web/packages/praatpicture/index.html){target='_blank'}.
+`praatpicture`. *Make Praat Picture style plots of acoustic data*. R package version 1.2.0. (August 2023--January 2024) [Available on CRAN](https://cran.r-project.org/web/packages/praatpicture/index.html){target='_blank'}.
 
 `emuhelpeR`. *Convenience functions for working with* `emuR`. R package version 0.1.5 (January 2023--January 2024). [Available on GitHub](https://github.com/rpuggaardrode/emuhelpeR){target='_blank'}.
 
@@ -226,9 +226,11 @@ Grijzenhout, Janet, **Rasmus Puggaard** & Bert Botma. “On pees and bees”, op
 
 ### Tutorials
 
+**Puggaard-Rode, Rasmus**. 2024. Make Praat Picture-style plots of acoustic data in R. [link](https://rpuggaardrode.github.io/praatpicture_manual/){target='_blank'}
+
 **Puggaard-Rode, Rasmus**. 2023. Predicting VOT-related landmarks in R with `getVOT`. *Linguistics Methods Hub*. doi:10.5281/zenodo.8039257. [link](https://lingmethodshub.github.io/content/R/getVOT-tutorial/){target='_blank'}
 
-**Puggaard-Rode, Rasmus**. 2023. Generating and analyzing multitaper spectra in R. (Unpublished). [link](https://rpuggaardrode.github.io/multitaper-tutorial/){target='_blank'}
+**Puggaard-Rode, Rasmus**. 2023. Generating and analyzing multitaper spectra in R. [link](https://rpuggaardrode.github.io/multitaper-tutorial/){target='_blank'}
 
 ### Theses
 
