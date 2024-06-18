@@ -125,7 +125,7 @@ Steensig, Jakob, Tina Mølgaard, **Rasmus Puggaard Hansen**, Emilie Tholstrup, N
 
 ### Posters
 
-[see [Puggaard-Rode 2023--2024](https://github.com/rpuggaardrode/praatpicture){target='_blank'}]{.aside}
+[see [Puggaard-Rode 2023--2024](https://github.com/rpuggaardrode/praatpicture){target='_blank'}, [2024](https://issp24.sciencesconf.org/data/pages/proceedings_long_papers.pdf#page=157){target='_blank'}]{.aside}
 **Puggaard-Rode, Rasmus**. "`praatpicture`. A library for making flexible Praat Picture-style figures in R", *International Seminar on Speech Production* 13, May 13--17, 2024, L'Escandille, Autrans--Méaudre en Vercors. [abstract](https://rasmuspuggaard.files.wordpress.com/2024/02/2024_issp.pdf){target='_blank'} | [poster](https://rasmuspuggaard.wordpress.com/wp-content/uploads/2024/05/2024_issp_poster.pdf){target='_blank'}
 
 Tan, Maryann, James Kirby & **Rasmus Puggaard-Rode**. "Investigating the effects of laryngeal contrasts on vowel fundamental frequency in Central Swedish stop consonants", *Fonologi i Norden* 9, February 23--24, 2024, Stockholm University. [abstract](https://rasmuspuggaard.files.wordpress.com/2024/02/2024_fino_swe.pdf){target='_blank'} | [poster](https://rasmuspuggaard.files.wordpress.com/2024/03/2024_fino_poster.pdf){target='_blank'}
@@ -164,10 +164,10 @@ Steensig, Jakob & **Rasmus Puggaard**. “A syntax for conversation. Social acti
 
 Jepson, Kathleen & **Rasmus Puggaard-Rode**. "An iconic prosodic pattern in three Australian languages", Institute for Phonetics and Speech Processing PhD and Postdoc Kolloquium, April 25, 2024, Ludwig Maximilian University of Munich.
 
-[see [Puggaard-Rode 2023--2024](https://github.com/rpuggaardrode/praatpicture){target='_blank'}]{.aside}
+[see [Puggaard-Rode 2023--2024](https://github.com/rpuggaardrode/praatpicture){target='_blank'}, [2024](https://issp24.sciencesconf.org/data/pages/proceedings_long_papers.pdf#page=157){target='_blank'}]{.aside}
 **Puggaard-Rode, Rasmus**. "Introducing `praatpicture`, an R package for people who like the way Praat's figures look but would prefer not to make them in Praat", Institute for Phonetics and Speech Processing PhD and Postdoc Kolloquium, February 1, 2024, Ludwig Maximilian University of Munich.
 
-[see [Puggaard-Rode 2023--2024](https://github.com/rpuggaardrode/praatpicture){target='_blank'}]{.aside}
+[see [Puggaard-Rode 2023--2024](https://github.com/rpuggaardrode/praatpicture){target='_blank'}, [2024](https://issp24.sciencesconf.org/data/pages/proceedings_long_papers.pdf#page=157){target='_blank'}]{.aside}
 **Puggaard-Rode, Rasmus**. `praatpicture` demonstration. December 7, 2023, Lancaster University Phonetics Lab.
 
 [see [Goldshtein & Puggaard 2019](https://rasmuspuggaard.files.wordpress.com/2020/07/2019_ordsag.pdf){target='_blank'}, [Puggaard 2021](https://rasmuspuggaard.files.wordpress.com/2021/06/puggaard-2021_modeling-regional-variation-in-voice-onset-time-of-jutlandic-varieties-of-danish.pdf){target='_blank'}, and [Puggaard-Rode 2023: chapter 6](http://dx.doi.org/10.48273/LOT0631){target='_blank'}]{.aside}
@@ -209,7 +209,7 @@ Grijzenhout, Janet, **Rasmus Puggaard** & Bert Botma. “On pees and bees”, op
 [see [Goldshtein & Puggaard 2019](https://rasmuspuggaard.files.wordpress.com/2020/07/2019_ordsag.pdf){target='_blank'}, [Puggaard 2021](https://rasmuspuggaard.files.wordpress.com/2021/06/puggaard-2021_modeling-regional-variation-in-voice-onset-time-of-jutlandic-varieties-of-danish.pdf){target='_blank'}, and [Puggaard-Rode 2023: chapter 6](http://dx.doi.org/10.48273/LOT0631){target='_blank'}]{.aside}
 **Puggaard, Rasmus**. “Regional microvariation in Danish stop consonants”, Leiden University Centre for Linguistics PhD symposium, November 16, 2018, Leiden University.
 
-[see [Puggaard](https://rasmuspuggaard.files.wordpress.com/2019/12/2018_linguistica-lettica.pdf){target='_blank'}, [2021](https://rasmuspuggaard.files.wordpress.com/2021/06/puggaard-2021_modeling-regional-variation-in-voice-onset-time-of-jutlandic-varieties-of-danish.pdf){target='_blank'}, [Goldshtein & Puggaard 2019](https://rasmuspuggaard.files.wordpress.com/2020/07/2019_ordsag.pdf){target='_blank'}, , and [Puggaard-Rode 2023: chapter 6](http://dx.doi.org/10.48273/LOT0631){target='_blank'}]{.aside}
+[see [Puggaard](https://rasmuspuggaard.files.wordpress.com/2019/12/2018_linguistica-lettica.pdf){target='_blank'}, [2021](https://rasmuspuggaard.files.wordpress.com/2021/06/puggaard-2021_modeling-regional-variation-in-voice-onset-time-of-jutlandic-varieties-of-danish.pdf){target='_blank'}, [Goldshtein & Puggaard 2019](https://rasmuspuggaard.files.wordpress.com/2020/07/2019_ordsag.pdf){target='_blank'}, and [Puggaard-Rode 2023: chapter 6](http://dx.doi.org/10.48273/LOT0631){target='_blank'}]{.aside}
 **Puggaard, Rasmus**. “Realization of /t/ in Jutlandic dialects of Danish”, *Sounds of Language and Speech*, June 2, 2017, Aarhus University.
 
 ## Other output
