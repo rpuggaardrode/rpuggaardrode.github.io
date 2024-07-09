@@ -39,7 +39,11 @@ Steensig, Jakob, Karen Kiil Brøcker, Caroline Grønkjær, Magnus Glenvad Tind H
 
 ### Articles in conference proceedings
 
-**Puggaard-Rode, Rasmus**. 2024. `praatpicture`. A library for making flexible Praat Picture-style figures in R. In Cécile Fougeron & Pascal Perrier (eds.), *Proceedings of the 13th International Seminar on Speech Production*, 115--118. [pdf](https://issp24.sciencesconf.org/data/pages/proceedings_long_papers.pdf#page=157){target='_blank'}
+Kirby, James, **Rasmus Puggaard-Rode**, Sireemas Maspong & Francesco Burroni. 2024. Effects of coda consonants on preceding vowel F0 in Eastern Khmu. In Yiya Chen, Aoju Chen & Amalia Arvaniti (eds.), *Proceedings of Speech Prosody 2024*, 324--328. doi:10.21437/SpeechProsody.2024-66. [pdf](https://www.isca-archive.org/speechprosody_2024/kirby24_speechprosody.html){target='_blank'}
+
+Jepson, Kathleen, **Rasmus Puggaard-Rode** & John Mansfield. 2024. Stylised sustained prosody in three Australian languages. In Yiya Chen, Aoju Chen & Amalia Arvaniti (eds.), *Proceedings of Speech Prosody 2024*, 980--984. doi:10.21437/SpeechProsody.2024-198. [pdf](https://www.isca-archive.org/speechprosody_2024/jepson24_speechprosody.html){target='_blank'}
+
+**Puggaard-Rode, Rasmus**. 2024. `praatpicture`. A library for making flexible Praat Picture-style figures in R. In Cécile Fougeron & Pascal Perrier (eds.), *Proceedings of the 13th International Seminar on Speech Production*, 131--134. doi:10.21437/issp.2024-34. [pdf](https://www.isca-archive.org/issp_2024/puggaardrode24_issp.html){target='_blank'}
 
 **Puggaard-Rode, Rasmus**. 2023. The /t/ release in Jutland Danish. Decomposing the spectrum with functional PCA. In Radek Skarnitzl & Jan Volín (eds.), *Proceedings of the 20th International Congress of Phonetic Sciences*, 3262--3266. Guarant. [pdf](https://rpuggaardrode.github.io/icphs2023/index.pdf){target='_blank'} | [html](https://rpuggaardrode.github.io/icphs2023/){target='_blank'}
 
@@ -67,9 +71,11 @@ Goldshtein, Yonatan & **Rasmus Puggaard**. 2019. Overblik over danske dialektopt
 
 Jepson, Kathleen & **Rasmus Puggaard-Rode**. "Stop production in Dhuwaya. Implications for literacy teaching". *International Symposium on Applied Phonetics* 5, September 30--October 2, 2024, University of Tartu.
 
-Jepson, Kathleen, **Rasmus Puggaard-Rode** & John Mansfield. "Stylised sustained prosody in three Australian languages". *Speech Prosody* 12, July 2--5, 2024, Leiden University.
+[see [Jepson et al. 2024](https://www.isca-archive.org/speechprosody_2024/jepson24_speechprosody.html){target='_blank'}]{.aside}
+Jepson, Kathleen, **Rasmus Puggaard-Rode** & John Mansfield. "Stylised sustained prosody in three Australian languages". *Speech Prosody* 12, July 2--5, 2024, Leiden University. [slides](https://rasmuspuggaard.wordpress.com/wp-content/uploads/2024/07/2024_speech-prosody_ssp.pdf){target='_blank'} | [paper](https://www.isca-archive.org/speechprosody_2024/jepson24_speechprosody.html){target='_blank'}
 
-Kirby, James, **Rasmus Puggaard-Rode**, Francesco Burroni & Sireemas Maspong. "Effects of coda consonants on preceding vowel F0 in Eastern Khmu'". *Speech Prosody* 12, July 2--5, 2024, Leiden University.
+[see [Kirby et al. 2024](https://www.isca-archive.org/speechprosody_2024/kirby24_speechprosody.html){target='_blank'}]{.aside}
+Kirby, James, **Rasmus Puggaard-Rode**, Francesco Burroni & Sireemas Maspong. "Effects of coda consonants on preceding vowel F0 in Eastern Khmu'". *Speech Prosody* 12, July 2--5, 2024, Leiden University. [paper](https://www.isca-archive.org/speechprosody_2024/kirby24_speechprosody.html){target='_blank'}
 
 **Puggaard-Rode, Rasmus** & Francesco Burroni. "Articulation of the Danish soft d. A pilot study using electromagnetic articulography". *Fonologi i Norden* 9, February 23--24, 2024, Stockholm University. [abstract](https://rasmuspuggaard.files.wordpress.com/2024/02/2024_fino_ema.pdf){target='_blank'} | [slides](https://docs.google.com/presentation/d/1lhkyudvFLol1VY0WZOnSol8ewAOZAteIXMFxZZM1-dE/edit?usp=sharing){target='_blank'}
 
@@ -125,8 +131,8 @@ Steensig, Jakob, Tina Mølgaard, **Rasmus Puggaard Hansen**, Emilie Tholstrup, N
 
 ### Posters
 
-[see [Puggaard-Rode 2023--2024](https://github.com/rpuggaardrode/praatpicture){target='_blank'}]{.aside}
-**Puggaard-Rode, Rasmus**. "`praatpicture`. A library for making flexible Praat Picture-style figures in R", *International Seminar on Speech Production* 13, May 13--17, 2024, L'Escandille, Autrans--Méaudre en Vercors. [abstract](https://rasmuspuggaard.files.wordpress.com/2024/02/2024_issp.pdf){target='_blank'} | [poster](https://rasmuspuggaard.wordpress.com/wp-content/uploads/2024/05/2024_issp_poster.pdf){target='_blank'}
+[see [Puggaard-Rode 2023--2024](https://github.com/rpuggaardrode/praatpicture){target='_blank'} and [Puggaard-Rode 2024](https://www.isca-archive.org/issp_2024/puggaardrode24_issp.html){target='_blank'}]{.aside}
+**Puggaard-Rode, Rasmus**. "`praatpicture`. A library for making flexible Praat Picture-style figures in R", *International Seminar on Speech Production* 13, May 13--17, 2024, L'Escandille, Autrans--Méaudre en Vercors. [abstract](https://rasmuspuggaard.files.wordpress.com/2024/02/2024_issp.pdf){target='_blank'} | [poster](https://rasmuspuggaard.wordpress.com/wp-content/uploads/2024/05/2024_issp_poster.pdf){target='_blank'} | [paper](https://www.isca-archive.org/issp_2024/puggaardrode24_issp.html){target='_blank'}
 
 Tan, Maryann, James Kirby & **Rasmus Puggaard-Rode**. "Investigating the effects of laryngeal contrasts on vowel fundamental frequency in Central Swedish stop consonants", *Fonologi i Norden* 9, February 23--24, 2024, Stockholm University. [abstract](https://rasmuspuggaard.files.wordpress.com/2024/02/2024_fino_swe.pdf){target='_blank'} | [poster](https://rasmuspuggaard.files.wordpress.com/2024/03/2024_fino_poster.pdf){target='_blank'}
 
