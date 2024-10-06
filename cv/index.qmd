@@ -321,6 +321,11 @@ Course coordinator: Marjoleine Sloos]{.column-body}
 
 ### Workshops
 
+[<font size='3' color='grey'>2024</font>]{.column-sidebar}
+[*Plotting acoustics data with the* `praatpicture` *R library and Shiny app* <br>
+3-hour workshop <br>
+*Phonetics and Phonology in Denmark* 4, University of Copenhagen]{.column-body}
+
 [<font size='3' color='grey'>2017</font>]{.column-sidebar}
 [*Acoustics and Praat* <br>
 3-hour workshop <br>
