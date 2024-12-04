@@ -41,13 +41,15 @@ Steensig, Jakob, Karen Kiil Brøcker, Caroline Grønkjær, Magnus Glenvad Tind H
 
 ### Articles in conference proceedings
 
+**Puggaard-Rode, Rasmus** & Kathleen Jepson. 2024. Stop production in Dhuwaya. Implications for literacy teaching. In Pärtel Lippus (ed.), *Proceedings of the 5th International Symposium on Applied Phonetics*, 71--76. International Speech Communication Association. doi:10.21437/ISAPh.2024-14. [open access](https://doi.org/10.21437/ISAPh.2024-14){target='_blank'}
+
 Jepson, Kathleen & **Rasmus Puggaard-Rode**. 2024. Vowel duration beyond contrastive length in Djambarrpuyŋu. In Olga Maxwell & Rikke Bundgaard-Nielsen (eds.), *Proceedings of the 19th Australasian International Conference on Speech Science and Technology*, 142--146. Australasian Speech Science and Techonology Association. [open access](https://assta.org/wp-content/uploads/2024/11/Proceedings-of-the-of-19th-Australasian-International-Conference-on-Speech-Science-and-Technology-1.pdf#page=151){target='_blank'}
 
-Kirby, James, **Rasmus Puggaard-Rode**, Sireemas Maspong & Francesco Burroni. 2024. Effects of coda consonants on preceding vowel F0 in Eastern Khmu. In Yiya Chen, Aoju Chen & Amalia Arvaniti (eds.), *Proceedings of Speech Prosody 2024*, 324--328. doi:10.21437/SpeechProsody.2024-66. [pdf](https://www.isca-archive.org/speechprosody_2024/kirby24_speechprosody.html){target='_blank'}
+Kirby, James, **Rasmus Puggaard-Rode**, Sireemas Maspong & Francesco Burroni. 2024. Effects of coda consonants on preceding vowel F0 in Eastern Khmu. In Yiya Chen, Aoju Chen & Amalia Arvaniti (eds.), *Proceedings of Speech Prosody 2024*, 324--328. International Speech Communication Association. doi:10.21437/SpeechProsody.2024-66. [pdf](https://www.isca-archive.org/speechprosody_2024/kirby24_speechprosody.html){target='_blank'}
 
-Jepson, Kathleen, **Rasmus Puggaard-Rode** & John Mansfield. 2024. Stylised sustained prosody in three Australian languages. In Yiya Chen, Aoju Chen & Amalia Arvaniti (eds.), *Proceedings of Speech Prosody 2024*, 980--984. doi:10.21437/SpeechProsody.2024-198. [pdf](https://www.isca-archive.org/speechprosody_2024/jepson24_speechprosody.html){target='_blank'}
+Jepson, Kathleen, **Rasmus Puggaard-Rode** & John Mansfield. 2024. Stylised sustained prosody in three Australian languages. In Yiya Chen, Aoju Chen & Amalia Arvaniti (eds.), *Proceedings of Speech Prosody 2024*, 980--984. International Speech Communication Association. doi:10.21437/SpeechProsody.2024-198. [pdf](https://www.isca-archive.org/speechprosody_2024/jepson24_speechprosody.html){target='_blank'}
 
-**Puggaard-Rode, Rasmus**. 2024. `praatpicture`. A library for making flexible Praat Picture-style figures in R. In Cécile Fougeron & Pascal Perrier (eds.), *Proceedings of the 13th International Seminar on Speech Production*, 131--134. doi:10.21437/issp.2024-34. [pdf](https://www.isca-archive.org/issp_2024/puggaardrode24_issp.html){target='_blank'}
+**Puggaard-Rode, Rasmus**. 2024. `praatpicture`. A library for making flexible Praat Picture-style figures in R. In Cécile Fougeron & Pascal Perrier (eds.), *Proceedings of the 13th International Seminar on Speech Production*, 131--134. International Speech Communication Association. doi:10.21437/issp.2024-34. [pdf](https://www.isca-archive.org/issp_2024/puggaardrode24_issp.html){target='_blank'}
 
 **Puggaard-Rode, Rasmus**. 2023. The /t/ release in Jutland Danish. Decomposing the spectrum with functional PCA. In Radek Skarnitzl & Jan Volín (eds.), *Proceedings of the 20th International Congress of Phonetic Sciences*, 3262--3266. Guarant. [pdf](https://rpuggaardrode.github.io/icphs2023/index.pdf){target='_blank'} | [html](https://rpuggaardrode.github.io/icphs2023/){target='_blank'}
 
@@ -81,6 +83,7 @@ Jepson, Kathleen, **Rasmus Puggaard-Rode** & John Mansfield. "Finding and descri
 
 **Puggaard-Rode, Rasmus**, Francesco Burroni & Aleese Block. "Udtalen af det bløde d". *Møde om udforskningen af dansk sprog* 20, October 10--11, 2024, Aarhus University.
 
+[see [Puggaard-Rode & Jepson 2024](https://doi.org/10.21437/ISAPh.2024-14){target='_blank'}]{.aside}
 Jepson, Kathleen & **Rasmus Puggaard-Rode**. "Stop production in Dhuwaya. Implications for literacy teaching". *International Symposium on Applied Phonetics* 5, September 30--October 2, 2024, University of Tartu.
 
 [see [Jepson et al. 2024](https://www.isca-archive.org/speechprosody_2024/jepson24_speechprosody.html){target='_blank'}]{.aside}
