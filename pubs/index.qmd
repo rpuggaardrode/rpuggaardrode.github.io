@@ -183,6 +183,11 @@ Steensig, Jakob & **Rasmus Puggaard**. “A syntax for conversation. Social acti
 
 ### Departmental talks and guest lectures
 
+**Puggaard-Rode, Rasmus**, James Kirby & Nicolai Pharao. "Revisiting C*F*~0~ in Danish", Institute for Phonetics and Speech Processing PhD and Postdoc Kolloquium, December 5, 2024, Ludwig Maximilian University of Munich.
+
+[see [Kirby et al. 2024](https://www.isca-archive.org/speechprosody_2024/kirby24_speechprosody.html){target='_blank'}]{.aside}
+Kirby, James, **Rasmus Puggaard-Rode**, Francesco Burroni & Sireemas Maspong. "Effects of coda consonants on preceding vowel F0 in Eastern Khmu'". Institute for Phonetics and Speech Processing PhD and Postdoc Kolloquium, June 20, 2024, Ludwig Maximilian University of Munich.
+
 Jepson, Kathleen & **Rasmus Puggaard-Rode**. "An iconic prosodic pattern in three Australian languages", Institute for Phonetics and Speech Processing PhD and Postdoc Kolloquium, April 25, 2024, Ludwig Maximilian University of Munich.
 
 [see [Puggaard-Rode 2023--2024](https://github.com/rpuggaardrode/praatpicture){target='_blank'}, [2024](https://issp24.sciencesconf.org/data/pages/proceedings_long_papers.pdf#page=157){target='_blank'}]{.aside}
