@@ -65,11 +65,11 @@ In [a paper out in *Journal of Phonetics*](https://www.sciencedirect.com/science
 
 I have done a lot of work on regional phonetic variability in the traditional dialects of Danish spoken in Jutland, mostly based on a [large legacy corpus](https://dansklyd.statsbiblioteket.dk/samling/dialektsamlingen/){target='_blank'} of sociolinguistic interviews carried out in the early 1970s. My colleague [Yonatan Goldshtein](https://pure.au.dk/portal/en/persons/yonatan-ungermann-goldshtein(fd6503bc-eeec-4c7d-abf8-6b78802fd76f).html){target='_blank'} and I spent a lot of time trawling through the metadata of this corpus and published [a paper](https://rasmuspuggaard.files.wordpress.com/2020/07/2019_ordsag.pdf){target='_blank'} summarizing the available materials. 
 
+Using these materials, I did large-scale corpus studies of [voice onset time](https://rasmuspuggaard.files.wordpress.com/2021/06/puggaard-2021_modeling-regional-variation-in-voice-onset-time-of-jutlandic-varieties-of-danish.pdf){target='_blank'}, [stop closure voicing](https://www.sciencedirect.com/science/article/pii/S0095447024000603){target='_blank'}, and [stop release affrication](https://rpuggaardrode.github.io/icphs2023/){target='_blank'} in the traditional dialects of Jutland, using generalized additive models to map the geographic variation in these phonetic parameters.
+
 ::: {.column-margin}
 ![[Puggaard-Rode 2023](https://rpuggaardrode.github.io/icphs2023){target='_blank'}](img/icphs-affr.png)
 :::
-
-Using these materials, I did large-scale corpus studies of [voice onset time](https://rasmuspuggaard.files.wordpress.com/2021/06/puggaard-2021_modeling-regional-variation-in-voice-onset-time-of-jutlandic-varieties-of-danish.pdf){target='_blank'}, [stop closure voicing](https://www.sciencedirect.com/science/article/pii/S0095447024000603){target='_blank'}, and [stop release affrication](https://rpuggaardrode.github.io/icphs2023/){target='_blank'} in the traditional dialects of Jutland, using generalized additive models to map the geographic variation in these phonetic parameters.
 
 ## Consonant-intrinsic *F*~0~
 
