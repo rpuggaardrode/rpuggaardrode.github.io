@@ -13,6 +13,8 @@ format:
 
 ### Journal articles (refereed)
 
+**Puggaard-Rode, Rasmus**, Henrik Jørgensen & Camilla Søballe Horslund. 2024. A diachronic account of Present Day Standard Danish stop gradation. Phonological reorganization through prosodically conditioned chain shifts and mergers. *Diachronica* (ahead of print). doi:10.1075/dia.23068.pug. [access behind paywall](https://benjamins.com/catalog/dia.23068.pug){target='_blank'}
+
 **Puggaard-Rode, Rasmus**. 2024. International og dansk praksis i notationen af lukkelyde. *Nydanske Sprogstudier* 66, 180--215. doi:10.7146/nys.v1i66.145000. [open access](https://www.nys.dk/article/view/145000){target='_blank'} | [data](https://osf.io/pe8cn/){target='_blank'}
 
 **Puggaard-Rode, Rasmus**. 2024. Variation in fine phonetic detail can modulate the outcome of sound change. The case of stop gradation and laryngeal contrast implementation in Jutland Danish. *Journal of Phonetics* 106. doi:10.1016/j.wocn.2024.101354. [open access](https://www.sciencedirect.com/science/article/pii/S0095447024000603){target='_blank'} | [commented analysis code](https://rpuggaardrode.github.io/hisphoncog/){target='_blank'} | [data and code](https://osf.io/hynqx/){target='_blank'}
