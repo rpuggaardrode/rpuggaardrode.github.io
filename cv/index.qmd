@@ -105,14 +105,15 @@ National Science Centre Poland, OPUS-26 scheme (2024)
 *Glossa* (2021) <br>
 *Journal of the Acoustical Society of America* (2024 x 2) <br>
 *Laboratory Phonology* (2023) <br>
-*Languages* (2024) <br>
+*Languages* (2024, 2025) <br>
 *Nydanske Sprogstudier* (2023) <br>
-*Ord & Sag* (2024) <br>
+*Ord & Sag* (2024) <br>S
 *Psychonomic Bulletin & Review* (2024)
 
 #### Book chapters
 
 Brill (2024) <br>
+Oxford University Press (2025) <br>
 Springer (2023)
 
 #### Proceedings articles
@@ -123,12 +124,16 @@ Springer (2023)
 #### Conference abstracts
 
 *Conference of the Student Organization for Linguistics in Europe* (2023) <br>
+*International Conference on Tone and Intonation* (2025) <br>
 *Laboratory Phonology* (2022) <br>
 *Phonology in the Nordic Countries* (2021)
 
 ## Other service
 
 #### Professional service and outreach
+
+[<font size='3' color='grey'>2024</font>]{.column-sidebar}
+[Member of panel to reform the phonetic annotations of the dictionary *Den danske ordbog*]{.column-body}
 
 [<font size='3' color='grey'>2021--2023</font>]{.column-sidebar}
 [Board member of *[Student Organization of Linguistics in Europe](https://www.universiteitleiden.nl/en/events/series/sole){target="_blank"}*]{.column-body}

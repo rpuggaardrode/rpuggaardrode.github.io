@@ -13,7 +13,7 @@ format:
 
 ### Journal articles (refereed)
 
-**Puggaard-Rode, Rasmus**, Henrik Jørgensen & Camilla Søballe Horslund. 2024. A diachronic account of Present Day Standard Danish stop gradation. Phonological reorganization through prosodically conditioned chain shifts and mergers. *Diachronica* (ahead of print). doi:10.1075/dia.23068.pug. [access behind paywall](https://benjamins.com/catalog/dia.23068.pug){target='_blank'}
+**Puggaard-Rode, Rasmus**, Henrik Jørgensen & Camilla Søballe Horslund. 2024. A diachronic account of Present Day Standard Danish stop gradation. Phonological reorganization through prosodically conditioned chain shifts and mergers. *Diachronica* 41(5), 678--718. doi:10.1075/dia.23068.pug. [access behind paywall](https://benjamins.com/catalog/dia.23068.pug){target='_blank'} | [preprint](https://www.researchgate.net/publication/387270757_A_diachronic_account_of_Present_Day_Standard_Danish_stop_gradation_Phonological_reorganization_through_prosodically_conditioned_chain_shifts_and_mergers){target='_blank'}
 
 **Puggaard-Rode, Rasmus**. 2024. International og dansk praksis i notationen af lukkelyde. *Nydanske Sprogstudier* 66, 180--215. doi:10.7146/nys.v1i66.145000. [open access](https://www.nys.dk/article/view/145000){target='_blank'} | [data](https://osf.io/pe8cn/){target='_blank'}
 
@@ -31,7 +31,7 @@ Horslund, Camilla Søballe, **Rasmus Puggaard-Rode** & Henrik Jørgensen. 2022. 
 
 **Puggaard, Rasmus**. 2018. Realizations of /t/ in Jutlandic dialects of Danish. *Linguistica Lettica* 26, 368--393. [pdf](https://rasmuspuggaard.files.wordpress.com/2019/12/2018_linguistica-lettica.pdf){target="_blank"}
 
-**Puggaard, Rasmus**. 2018. Telefoniske båndpasfiltres indflydelse på talergenkendelse. Høje frekvenser og dansk /t/. *Nydanske Sprogstudier* 54, 129--155. Special issue: *Anvendt sprogvidenskab*. doi:10.7146/nys.v1i54.107156. [open access](https://www.nys.dk/article/view/100580){target="_blank"}
+**Puggaard, Rasmus**. 2018. Telefoniske båndpasfiltres indflydelse på talergenkendelse. Høje frekvenser og dansk /t/. *Nydanske Sprogstudier* 54, 129--155. doi:10.7146/nys.v1i54.107156. [open access](https://www.nys.dk/article/view/100580){target="_blank"}
 
 ### Chapters in edited volumes
 
@@ -47,7 +47,7 @@ Steensig, Jakob, Karen Kiil Brøcker, Caroline Grønkjær, Magnus Glenvad Tind H
 
 **Puggaard-Rode, Rasmus** & Kathleen Jepson. 2024. Stop production in Dhuwaya. Implications for literacy teaching. In Pärtel Lippus (ed.), *Proceedings of the 5th International Symposium on Applied Phonetics*, 71--76. International Speech Communication Association. doi:10.21437/ISAPh.2024-14. [open access](https://doi.org/10.21437/ISAPh.2024-14){target='_blank'}
 
-Jepson, Kathleen & **Rasmus Puggaard-Rode**. 2024. Vowel duration beyond contrastive length in Djambarrpuyŋu. In Olga Maxwell & Rikke Bundgaard-Nielsen (eds.), *Proceedings of the 19th Australasian International Conference on Speech Science and Technology*, 142--146. Australasian Speech Science and Techonology Association. [open access](https://assta.org/wp-content/uploads/2024/11/Proceedings-of-the-of-19th-Australasian-International-Conference-on-Speech-Science-and-Technology-1.pdf#page=151){target='_blank'}
+Jepson, Kathleen & **Rasmus Puggaard-Rode**. 2024. Vowel duration beyond contrastive length in Djambarrpuyŋu. In Olga Maxwell & Rikke Bundgaard-Nielsen (eds.), *Proceedings of the 19th Australasian International Conference on Speech Science and Technology*, 142--146. Australasian Speech Science and Techonology Association. [open access](https://assta.org/wp-content/uploads/2024/11/No_29_Jepson_Puggaard-Rode_2024_142_146.pdf){target='_blank'}
 
 Kirby, James, **Rasmus Puggaard-Rode**, Sireemas Maspong & Francesco Burroni. 2024. Effects of coda consonants on preceding vowel F0 in Eastern Khmu. In Yiya Chen, Aoju Chen & Amalia Arvaniti (eds.), *Proceedings of Speech Prosody 2024*, 324--328. International Speech Communication Association. doi:10.21437/SpeechProsody.2024-66. [pdf](https://www.isca-archive.org/speechprosody_2024/kirby24_speechprosody.html){target='_blank'}
 
@@ -55,7 +55,7 @@ Jepson, Kathleen, **Rasmus Puggaard-Rode** & John Mansfield. 2024. Stylised sust
 
 **Puggaard-Rode, Rasmus**. 2024. `praatpicture`. A library for making flexible Praat Picture-style figures in R. In Cécile Fougeron & Pascal Perrier (eds.), *Proceedings of the 13th International Seminar on Speech Production*, 131--134. International Speech Communication Association. doi:10.21437/issp.2024-34. [pdf](https://www.isca-archive.org/issp_2024/puggaardrode24_issp.html){target='_blank'}
 
-**Puggaard-Rode, Rasmus**. 2023. The /t/ release in Jutland Danish. Decomposing the spectrum with functional PCA. In Radek Skarnitzl & Jan Volín (eds.), *Proceedings of the 20th International Congress of Phonetic Sciences*, 3262--3266. Guarant. [pdf](https://rpuggaardrode.github.io/icphs2023/index.pdf){target='_blank'} | [html](https://rpuggaardrode.github.io/icphs2023/){target='_blank'}
+**Puggaard-Rode, Rasmus**. 2023. The /t/ release in Jutland Danish. Decomposing the spectrum with functional PCA. In Radek Skarnitzl & Jan Volín (eds.), *Proceedings of the 20th International Congress of Phonetic Sciences*, 3262--3266. Guarant. [pdf](https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2023/full_papers/139.pdf){target='_blank'} | [html](https://rpuggaardrode.github.io/icphs2023/){target='_blank'}
 
 Horslund, Camilla Søballe, Henrik Jørgensen & **Rasmus Puggaard**. 2021. En alternativ, fonetisk baseret fonemanalyse af det danske konsonantsystem. In Yonatan Goldshtein, Inger Schoonderbeek Hansen & Tina Thode Hougaard (eds.), *18. møde om udforskningen af dansk sprog*, 251--267. Aarhus University. [pdf](https://rasmuspuggaard.files.wordpress.com/2021/09/horslund-et-al-2021_en-alternativ-fonetisk-baseret-fonemanalyse-af-det-danske-konsonantsystem.pdf){target='_blank'} | [full volume](https://projekter.au.dk/fileadmin/projekter/Muds.dk/rapporter/MUDS_18.pdf){target='_blank'}
 
@@ -73,24 +73,24 @@ Holtz, Annie, Iva Kovač, **Rasmus Puggaard-Rode** & Joanna Wall (eds.) 2021. *P
 
 **Puggaard, Rasmus**. 2020. A Semiotic Grammar account of copula clauses in Danish. *Skrifter om Samtalegrammatik* 7(4). [pdf](https://samtalegrammatik.dk/fileadmin/samtalegrammatik/sos/7/Puggaard_2020_A_Semiotic_Grammar_account_of_copula_clauses_in_Danish.pdf){target='_blank'}
 
-Goldshtein, Yonatan & **Rasmus Puggaard**. 2019. Overblik over danske dialektoptagelser. *Ord & Sag* 39, 18--28. [pdf](https://rasmuspuggaard.files.wordpress.com/2020/07/2019_ordsag.pdf){target='_blank'} | [full volume](https://jysk.au.dk/fileadmin/www.jysk.au.dk/publikationer/centrets_publikationer/ord___sag_26_-/ordsag39.pdf){target='_blank'}
+Goldshtein, Yonatan & **Rasmus Puggaard**. 2019. Overblik over danske dialektoptagelser. *Ord & Sag* 39, 18--28. doi:10.7146/ordogsag.v39.150558. [open access](https://doi.org/10.7146/ordogsag.v39.150558){target='_blank'}
 
 ## Presentations
 
 ### Conference and workshop presentations
 
-Block, Aleese, **Rasmus Puggaard-Rode** & Francesco Burroni. "Reconceptualizing soft d in Danish". *Fonologi i Norden* 10, February 20--21, 2025, University of Oslo.
+Block, Aleese, **Rasmus Puggaard-Rode** & Francesco Burroni. "Reconceptualizing soft d in Danish". *Fonologi i Norden* 10, February 20--21, 2025, University of Oslo. [abstract](https://rasmuspuggaard.wordpress.com/wp-content/uploads/2025/02/2025_fino_abs.pdf){target='_blank'} | [slides](https://rasmuspuggaard.wordpress.com/wp-content/uploads/2025/02/2025_fino.pdf){target='_blank'}
 
-[see [Jepson & Puggaard-Rode 2024](https://assta.org/wp-content/uploads/2024/11/Proceedings-of-the-of-19th-Australasian-International-Conference-on-Speech-Science-and-Technology-1.pdf#page=151){target='_blank'}]{.aside}
-Jepson, Kathleen & **Rasmus Puggaard-Rode**. "Vowel duration beyond contrastive length in Djambarrpuyŋu". *Australasian International Conference on Speech Science and Technology* 19, December 3--5, 2024, University of Melbourne.
+[see [Jepson & Puggaard-Rode 2024](https://assta.org/wp-content/uploads/2024/11/No_29_Jepson_Puggaard-Rode_2024_142_146.pdf){target='_blank'}]{.aside}
+Jepson, Kathleen & **Rasmus Puggaard-Rode**. "Vowel duration beyond contrastive length in Djambarrpuyŋu". *Australasian International Conference on Speech Science and Technology* 19, December 3--5, 2024, University of Melbourne. [paper](https://assta.org/wp-content/uploads/2024/11/No_29_Jepson_Puggaard-Rode_2024_142_146.pdf){target='_blank'}
 
 [see [Jepson et al. 2024](https://www.isca-archive.org/speechprosody_2024/jepson24_speechprosody.html){target='_blank'}]{.aside}
 Jepson, Kathleen, **Rasmus Puggaard-Rode** & John Mansfield. "Finding and describing stylised sustained prosody in Australian languages". *Australian Linguistic Society* 57, November 26--29, 2024, Australian National University, Canberra.
 
-**Puggaard-Rode, Rasmus**, Francesco Burroni & Aleese Block. "Udtalen af det bløde d". *Møde om udforskningen af dansk sprog* 20, October 10--11, 2024, Aarhus University.
+**Puggaard-Rode, Rasmus**, Francesco Burroni & Aleese Block. "Udtalen af det bløde d". *Møde om udforskningen af dansk sprog* 20, October 10--11, 2024, Aarhus University. [abstract](https://rasmuspuggaard.wordpress.com/wp-content/uploads/2025/02/2024_muds.pdf){target='_blank'} | [slides](https://rasmuspuggaard.wordpress.com/wp-content/uploads/2025/02/2024_muds_slides.pdf){target='_blank'}
 
 [see [Puggaard-Rode & Jepson 2024](https://doi.org/10.21437/ISAPh.2024-14){target='_blank'}]{.aside}
-Jepson, Kathleen & **Rasmus Puggaard-Rode**. "Stop production in Dhuwaya. Implications for literacy teaching". *International Symposium on Applied Phonetics* 5, September 30--October 2, 2024, University of Tartu.
+Jepson, Kathleen & **Rasmus Puggaard-Rode**. "Stop production in Dhuwaya. Implications for literacy teaching". *International Symposium on Applied Phonetics* 5, September 30--October 2, 2024, University of Tartu. [slides](https://rasmuspuggaard.wordpress.com/wp-content/uploads/2025/02/2024_isaph_slides.pdf){target='_blank'} | [paper](https://doi.org/10.21437/ISAPh.2024-14){target='_blank'}
 
 [see [Jepson et al. 2024](https://www.isca-archive.org/speechprosody_2024/jepson24_speechprosody.html){target='_blank'}]{.aside}
 Jepson, Kathleen, **Rasmus Puggaard-Rode** & John Mansfield. "Stylised sustained prosody in three Australian languages". *Speech Prosody* 12, July 2--5, 2024, Leiden University. [slides](https://rasmuspuggaard.wordpress.com/wp-content/uploads/2024/07/2024_speech-prosody_ssp.pdf){target='_blank'} | [paper](https://www.isca-archive.org/speechprosody_2024/jepson24_speechprosody.html){target='_blank'}
@@ -248,17 +248,19 @@ Grijzenhout, Janet, **Rasmus Puggaard** & Bert Botma. “On pees and bees”, op
 
 ### Software
 
+`praatpicture`. *Make Praat Picture style plots of acoustic data*. R package version 1.4.0. (August 2023--January 2025) [Available on CRAN](https://cran.r-project.org/web/packages/praatpicture/index.html){target='_blank'}.
+
 `reapeR`. *Robust epoch and pitch estimation in R*. R package version 0.0.4 (October--December 2024). [Available on GitHub](https://github.com/rpuggaardrode/reapeR){target='_blank'}.
 
 `getVOT`. *Predict voice onset time*. R package version 0.2.0. (February 2023--November 2024). [Available on GitHub](https://github.com/rpuggaardrode/getVOT){target='_blank'}.
-
-`praatpicture`. *Make Praat Picture style plots of acoustic data*. R package version 1.2.0. (August 2023--October 2024) [Available on CRAN](https://cran.r-project.org/web/packages/praatpicture/index.html){target='_blank'}.
 
 `emuhelpeR`. *Convenience functions for working with* `emuR`. R package version 0.1.5 (January 2023--January 2024). [Available on GitHub](https://github.com/rpuggaardrode/emuhelpeR){target='_blank'}.
 
 `phonfeatures`. *Assign features to phonetic characters*. R package version 0.1.2 (January--February 2023). [Available on GitHub](https://github.com/rpuggaardrode/phonfeatures){target='_blank'}.
 
 ### Tutorials
+
+Harrington, Jonathan, Johanna Cronenberg & **Rasmus Puggaard-Rode**. 2024. An introduction to `emuR`. (In progress). [link](https://rpuggaardrode.github.io/emuintro/){target='_blank'}
 
 **Puggaard-Rode, Rasmus**. 2024. Make Praat Picture-style plots of acoustic data in R. [link](https://rpuggaardrode.github.io/praatpicture_manual/){target='_blank'}
 
