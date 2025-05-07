@@ -13,6 +13,8 @@ format:
 
 ### Journal articles (refereed)
 
+Horslund, Camilla Søballe, **Rasmus Puggaard-Rode** & Henrik Jørgensen. 2025. En sammenlignende vurdering af de tilgængelige lærebøger i dansk lydlære. *Danske Studier* 2025, 177--197. [pdf](https://rasmuspuggaard.wordpress.com/wp-content/uploads/2025/05/2025_danskestudier.pdf){target='_blank'}
+
 **Puggaard-Rode, Rasmus**, Henrik Jørgensen & Camilla Søballe Horslund. 2024. A diachronic account of Present Day Standard Danish stop gradation. Phonological reorganization through prosodically conditioned chain shifts and mergers. *Diachronica* 41(5), 678--718. doi:10.1075/dia.23068.pug. [access behind paywall](https://benjamins.com/catalog/dia.23068.pug){target='_blank'} | [preprint](https://www.researchgate.net/publication/387270757_A_diachronic_account_of_Present_Day_Standard_Danish_stop_gradation_Phonological_reorganization_through_prosodically_conditioned_chain_shifts_and_mergers){target='_blank'}
 
 **Puggaard-Rode, Rasmus**. 2024. International og dansk praksis i notationen af lukkelyde. *Nydanske Sprogstudier* 66, 180--215. doi:10.7146/nys.v1i66.145000. [open access](https://www.nys.dk/article/view/145000){target='_blank'} | [data](https://osf.io/pe8cn/){target='_blank'}
@@ -35,7 +37,7 @@ Horslund, Camilla Søballe, **Rasmus Puggaard-Rode** & Henrik Jørgensen. 2022. 
 
 ### Chapters in edited volumes
 
-**Puggaard-Rode, Rasmus**, Bert Botma & Janet Grijzenhout. 2023. Towards a quantized representation of phonological stop contrasts. In Florian Breit, Bert Botma, Marijn van ‘t Veer & Marc van Oostendorp (eds.), *Primitives of phonological structure* (Oxford Studies in Phonology & Phonetics), 305--322. Oxford University Press. doi:10.1093/oso/9780198791126.003.0012. [access behind paywall](https://doi.org/10.1093/oso/9780198791126.003.0012){target='_blank'}
+**Puggaard-Rode, Rasmus**, Bert Botma & Janet Grijzenhout. 2023. Towards a quantized representation of phonological stop contrasts. In Florian Breit, Bert Botma, Marijn van ‘t Veer & Marc van Oostendorp (eds.), *Primitives of phonological structure* (Oxford Studies in Phonology & Phonetics), 305--322. Oxford University Press. doi:10.1093/oso/9780198791126.003.0012. [open access](https://hdl.handle.net/1887/42108409){target='_blank'}
 
 **Puggaard, Rasmus**. 2021. Modeling regional variation in voice onset time of Jutlandic varieties of Danish. In Hans Van de Velde, Remco Knooihuizen & Nanna Haug Hilton (eds.), *Language variation. European perspectives VIII* (Studies in Language Variation 25), 79--110. John Benjamins. doi:10.1075/silv.25.04pug. [pdf](https://rasmuspuggaard.files.wordpress.com/2021/06/puggaard-2021_modeling-regional-variation-in-voice-onset-time-of-jutlandic-varieties-of-danish.pdf){target="_blank"} | [full volume](https://www.jbe-platform.com/content/books/9789027259820){target="_blank"} | [data and code](https://doi.org/10.34894/JHN1Q7){target="_blank"}
 
@@ -187,9 +189,14 @@ Sloos, Marjoleine, Liang Jie, Ne Xuechao, **Rasmus Puggaard Hansen**, Yan Mengzh
 ### Invited talks
 
 [see [Goldshtein & Puggaard 2019](https://rasmuspuggaard.files.wordpress.com/2020/07/2019_ordsag.pdf){target='_blank'}, [Puggaard 2021](https://rasmuspuggaard.files.wordpress.com/2021/06/puggaard-2021_modeling-regional-variation-in-voice-onset-time-of-jutlandic-varieties-of-danish.pdf){target='_blank'}, [Puggaard-Rode 2023: chapter 6](http://dx.doi.org/10.48273/LOT0631){target='_blank'}, [2024](https://www.sciencedirect.com/science/article/pii/S0095447024000603){target='_blank'}]{.aside}
+**Puggaard-Rode, Rasmus**. "Variation in fine phonetic detail modulates the outcome of sound change. The case of stop lenition in Jutland Danish", December 7, 2023, Lancaster University Phonetics Lab. [slides](https://rpuggaardrode.github.io/lancaster23/#/title-slide){target='_blank'}
+
+[see [Goldshtein & Puggaard 2019](https://rasmuspuggaard.files.wordpress.com/2020/07/2019_ordsag.pdf){target='_blank'}, [Puggaard 2021](https://rasmuspuggaard.files.wordpress.com/2021/06/puggaard-2021_modeling-regional-variation-in-voice-onset-time-of-jutlandic-varieties-of-danish.pdf){target='_blank'}, [Puggaard-Rode 2023: chapter 6](http://dx.doi.org/10.48273/LOT0631){target='_blank'}, [2024](https://www.sciencedirect.com/science/article/pii/S0095447024000603){target='_blank'}]{.aside}
 **Puggaard, Rasmus**. “Variation i udtalen af jyske klusiler. En korpusundersøgelse”, *Sproglig variation og sproghistorie*, December 9, 2019, Aarhus University. [slides](https://rasmuspuggaard.files.wordpress.com/2022/01/2019_sproglig-variation-og-sproghistorie.pdf){target='_blank'}
 
 Steensig, Jakob & **Rasmus Puggaard**. “A syntax for conversation. Social action formats and/or abstract clause models?”, *DanTIN Day. The 10th anniversary celebration of the DanTIN group*, November 13, 2019, Aarhus University.
+
+Grijzenhout, Janet, **Rasmus Puggaard** & Bert Botma. “On pees and bees”, opening lecture for the academic year, BA English Language & Culture, September 3, 2019, Leiden University.
 
 ### Departmental talks and guest lectures
 
@@ -205,9 +212,6 @@ Jepson, Kathleen & **Rasmus Puggaard-Rode**. "An iconic prosodic pattern in thre
 
 [see [Puggaard-Rode 2023--2024](https://github.com/rpuggaardrode/praatpicture){target='_blank'}, [2024](https://issp24.sciencesconf.org/data/pages/proceedings_long_papers.pdf#page=157){target='_blank'}]{.aside}
 **Puggaard-Rode, Rasmus**. `praatpicture` demonstration. December 7, 2023, Lancaster University Phonetics Lab.
-
-[see [Goldshtein & Puggaard 2019](https://rasmuspuggaard.files.wordpress.com/2020/07/2019_ordsag.pdf){target='_blank'}, [Puggaard 2021](https://rasmuspuggaard.files.wordpress.com/2021/06/puggaard-2021_modeling-regional-variation-in-voice-onset-time-of-jutlandic-varieties-of-danish.pdf){target='_blank'}, [Puggaard-Rode 2023: chapter 6](http://dx.doi.org/10.48273/LOT0631){target='_blank'}, [2024](https://www.sciencedirect.com/science/article/pii/S0095447024000603){target='_blank'}]{.aside}
-**Puggaard-Rode, Rasmus**. "Variation in fine phonetic detail modulates the outcome of sound change. The case of stop lenition in Jutland Danish", December 7, 2023, Lancaster University Phonetics Lab. [slides](https://rpuggaardrode.github.io/lancaster23/#/title-slide){target='_blank'}
 
 [see [Puggaard-Rode 2023](https://lingmethodshub.github.io/content/R/getVOT-tutorial/){target='_blank'}]{.aside}
 **Puggaard-Rode, Rasmus**. “`getVOT`, or: How I learned to stop hand-annotating and love the computer”, *Sounds of Language and Speech*, June 6, 2023, Aarhus University. [slides](https://rpuggaardrode.github.io/getVOT-pres/#1){target='_blank'}
@@ -240,8 +244,6 @@ Jepson, Kathleen & **Rasmus Puggaard-Rode**. "An iconic prosodic pattern in thre
 
 **Puggaard, Rasmus**. “Looking into stops. Phonological representation below the level of the segment”, *Sounds of Language and Speech*, October 26, 2020, virtual colloquium hosted at Aarhus University. [slides](https://rasmuspuggaard.files.wordpress.com/2022/01/2020_phonphon.pdf){target='_blank'}
 
-Grijzenhout, Janet, **Rasmus Puggaard** & Bert Botma. “On pees and bees”, opening lecture for the academic year, BA English Language & Culture, September 3, 2019, Leiden University.
-
 [see [Goldshtein & Puggaard 2019](https://rasmuspuggaard.files.wordpress.com/2020/07/2019_ordsag.pdf){target='_blank'}, [Puggaard 2021](https://rasmuspuggaard.files.wordpress.com/2021/06/puggaard-2021_modeling-regional-variation-in-voice-onset-time-of-jutlandic-varieties-of-danish.pdf){target='_blank'}, [Puggaard-Rode 2023: chapter 6](http://dx.doi.org/10.48273/LOT0631){target='_blank'}, [2024](https://www.sciencedirect.com/science/article/pii/S0095447024000603){target='_blank'}]{.aside}
 **Puggaard, Rasmus**. “Regional microvariation in Danish stop consonants”, Leiden University Centre for Linguistics PhD symposium, November 16, 2018, Leiden University.
 
@@ -252,9 +254,9 @@ Grijzenhout, Janet, **Rasmus Puggaard** & Bert Botma. “On pees and bees”, op
 
 ### Software
 
-`praatpicture`. *Make Praat Picture style plots of acoustic data*. R package version 1.4.0. (August 2023--January 2025) [Available on CRAN](https://cran.r-project.org/web/packages/praatpicture/index.html){target='_blank'}.
+`praatpicture`. *Make Praat Picture style plots of acoustic data*. R package version 1.4.2. (August 2023--April 2025) [Available on CRAN](https://cran.r-project.org/web/packages/praatpicture/index.html){target='_blank'}.
 
-`reapeR`. *Robust epoch and pitch estimation in R*. R package version 0.0.4 (October--December 2024). [Available on GitHub](https://github.com/rpuggaardrode/reapeR){target='_blank'}.
+`reapeR`. *Robust epoch and pitch estimation in R*. R package version 0.0.6 (October--April 2025). [Available on GitHub](https://github.com/rpuggaardrode/reapeR){target='_blank'}.
 
 `getVOT`. *Predict voice onset time*. R package version 0.2.0. (February 2023--November 2024). [Available on GitHub](https://github.com/rpuggaardrode/getVOT){target='_blank'}.
 

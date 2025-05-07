@@ -104,10 +104,11 @@ National Science Centre Poland, OPUS-26 scheme (2024)
 *Computational Intelligence and Neuroscience* (2022) <br>
 *Glossa* (2021) <br>
 *Journal of the Acoustical Society of America* (2024 x 2) <br>
+*Journal of Phonetics* (2025) <br>
 *Laboratory Phonology* (2023) <br>
 *Languages* (2024, 2025) <br>
 *Nydanske Sprogstudier* (2023) <br>
-*Ord & Sag* (2024) <br>S
+*Ord & Sag* (2024) <br>
 *Psychonomic Bulletin & Review* (2024)
 
 #### Book chapters
@@ -119,6 +120,7 @@ Springer (2023)
 #### Proceedings articles
 
 *International Congress of Phonetic Sciences* (2023) <br>
+*Interspeech* (2025) <br>
 *Møderne om udforskningen af dansk sprog* (2019, 2021)
 
 #### Conference abstracts
@@ -163,14 +165,6 @@ Springer (2023)
 
 [<font size='3' color='grey'>2013</font>]{.column-sidebar}
 [Organizing and hosting intro week for new undergraduate students in BA Linguistics, Aarhus University]{.column-body}
-
-## Professional memberships
-
-[<font size='3' color='grey'>2023--</font>]{.column-sidebar}
-[[International Phonetic Association](https://www.internationalphoneticassociation.org/){target="_blank"}]{.column-body}
-
-[<font size='3' color='grey'>2021--</font>]{.column-sidebar}
-[[Association for Laboratory Phonology](https://labphon.org/){target="_blank"}]{.column-body}
 
 ## Affiliated research networks
 
