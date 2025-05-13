@@ -254,7 +254,7 @@ Jepson, Kathleen & **Rasmus Puggaard-Rode**. "An iconic prosodic pattern in thre
 
 ### Software
 
-`praatpicture`. *Make Praat Picture style plots of acoustic data*. R package version 1.4.2. (August 2023--April 2025) [Available on CRAN](https://cran.r-project.org/web/packages/praatpicture/index.html){target='_blank'}.
+`praatpicture`. *Make Praat Picture style plots of acoustic data*. R package version 1.4.3. (August 2023--May 2025) [Available on CRAN](https://cran.r-project.org/web/packages/praatpicture/index.html){target='_blank'}.
 
 `reapeR`. *Robust epoch and pitch estimation in R*. R package version 0.0.6 (October--April 2025). [Available on GitHub](https://github.com/rpuggaardrode/reapeR){target='_blank'}.
 
@@ -266,13 +266,15 @@ Jepson, Kathleen & **Rasmus Puggaard-Rode**. "An iconic prosodic pattern in thre
 
 ### Tutorials
 
+**Puggaard-Rode, Rasmus** & James Kirby. 2025. PraatSauce workflow and parameters. [link](https://kirbyj.github.io/praatsauce/){target='_blank'}
+
+**Puggaard-Rode, Rasmus**. 2025. Generating and analyzing multitaper spectra in R. [link](https://rpuggaardrode.github.io/multitaper-tutorial/){target='_blank'}
+
+**Puggaard-Rode, Rasmus**. 2025. Make Praat Picture-style plots of acoustic data in R. [link](https://rpuggaardrode.github.io/praatpicture_manual/){target='_blank'}
+
 Harrington, Jonathan, Johanna Cronenberg & **Rasmus Puggaard-Rode**. 2024. An introduction to `emuR`. (In progress). [link](https://rpuggaardrode.github.io/emuintro/){target='_blank'}
 
-**Puggaard-Rode, Rasmus**. 2024. Make Praat Picture-style plots of acoustic data in R. [link](https://rpuggaardrode.github.io/praatpicture_manual/){target='_blank'}
-
 **Puggaard-Rode, Rasmus**. 2023. Predicting VOT-related landmarks in R with `getVOT`. *Linguistics Methods Hub*. doi:10.5281/zenodo.8039257. [link](https://lingmethodshub.github.io/content/R/getVOT-tutorial/){target='_blank'}
-
-**Puggaard-Rode, Rasmus**. 2023. Generating and analyzing multitaper spectra in R. [link](https://rpuggaardrode.github.io/multitaper-tutorial/){target='_blank'}
 
 ### Theses
 
