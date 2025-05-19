@@ -156,7 +156,7 @@ Steensig, Jakob, Tina Mølgaard, **Rasmus Puggaard Hansen**, Emilie Tholstrup, N
 
 **Puggaard-Rode, Rasmus**, James Kirby & Nicolai Pharao. "The source and significance of consonant-intrinsic pitch. New evidence from Danish", *Phonetics and Phonology in Europe* 6, June 25--27, 2025, University of the Balearic Islands, Palma de Mallorca.
 
-Pharao, Nicolai & **Rasmus Puggaard-Rode**. "A pitch accent for contrastive emphasis in Danish?", *International Conference on Tone and Intonation* 3, May 16--18, 2025, Haus der Bayerischen Landwirdschaft, Herrsching.
+Pharao, Nicolai & **Rasmus Puggaard-Rode**. "A pitch accent for contrastive emphasis in Danish?", *International Conference on Tone and Intonation* 3, May 16--18, 2025, Haus der Bayerischen Landwirdschaft, Herrsching. [abstract](https://www.tai2025.org/docs/TAI2025_abstract_book.pdf#page=94){target='_blank'} | [poster](https://rpuggaardrode.github.io/tai){target='_blank'}
 
 [see [Puggaard-Rode 2023--2024](https://github.com/rpuggaardrode/praatpicture){target='_blank'}, [2024](https://www.isca-archive.org/issp_2024/puggaardrode24_issp.html){target='_blank'}]{.aside}
 **Puggaard-Rode, Rasmus**. "`praatpicture`. A library for making flexible Praat Picture-style figures in R", *International Seminar on Speech Production* 13, May 13--17, 2024, L'Escandille, Autrans--Méaudre en Vercors. [abstract](https://rasmuspuggaard.files.wordpress.com/2024/02/2024_issp.pdf){target='_blank'} | [poster](https://rasmuspuggaard.wordpress.com/wp-content/uploads/2024/05/2024_issp_poster.pdf){target='_blank'} | [paper](https://www.isca-archive.org/issp_2024/puggaardrode24_issp.html){target='_blank'}
