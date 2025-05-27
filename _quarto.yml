@@ -21,8 +21,6 @@ website:
     
     # your social media handles
     right:
-      - icon: twitter
-        href: https://twitter.com/RPuggaardRode
       - text: "{{< iconify simple-icons bluesky >}}"
         href: https://bsky.app/profile/rpuggaardrode.bsky.social
       - icon: github

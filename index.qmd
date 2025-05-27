@@ -19,9 +19,6 @@ about:
       href: https://www.researchgate.net/profile/Rasmus_Puggaard
     - text: "{{< iconify academicons orcid >}} ORCiD"
       href: https://orcid.org/0000-0003-4522-9987
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/RPuggaardRode
     - text: "{{< iconify simple-icons bluesky >}} Bluesky"
       href: https://bsky.app/profile/rpuggaardrode.bsky.social
     - icon: linkedin
@@ -51,6 +48,8 @@ I hold a PhD in phonology and phonetics from Leiden University. [My dissertation
 
 <h2 style='text-align: center;'>News</h2>
 
+* Some major job news: as of September 2025, I will be Associate Professor of Phonetics at the University of Oxford, joining the vibrant [Faculty of Linguistics, Philology, and Phonetics](https://www.ling-phil.ox.ac.uk/){target='_blank'} and the [Phonetics Lab](https://www.phon.ox.ac.uk/){target='_blank'}. I will also be an Official Fellow of [Kellogg College](https://www.kellogg.ox.ac.uk/){target='_blank'}. Phonetics is a very [old discipline](https://www.phon.ox.ac.uk/files/pdfs/OxfordPhoneticsHistory.pdf){target='_blank'} at Oxford, so these are big shoes to fill, and I'm very excited by this opportunity!
+
 * [Michaela Watkins](https://sites.google.com/view/michaelawatkins/home){target='_blank'}, [Paul Boersma](https://www.fon.hum.uva.nl/paul/){target='_blank'}, [Silke Hamann](https://fon.hum.uva.nl/silke/){target='_blank'}, and I have had a collaborative paper accepted at [Interspeech](https://www.interspeech2025.org/home){target='_blank'} on using [F0 ratio](https://www.isca-archive.org/interspeech_2024/watkins24_interspeech.html){target='_blank'} as a diagnostic for the presence of creaky voice using data from Seoul Korean and Modern Standard Danish.
 
 * Our group in Munich hosted the third [International Conference on Tone and Intonation](https://www.tai2025.org/){target='_blank'} in Herrsching. In addition to having great conversations and running around with a microphone during Q&A's, I also presented a poster with [Nicolai Pharao](https://nors.ku.dk/ansatte/?pure=da/persons/164799){target='_blank'} about what appears to be a specialized pitch accent used by some speakers of Danish for contrastive emphasis. Materials can be found [here](https://rpuggaardrode.github.io/tai){target='_blank'}.
@@ -59,4 +58,6 @@ I hold a PhD in phonology and phonetics from Leiden University. [My dissertation
 
 * [Camilla Søballe Horslund](https://vbn.aau.dk/en/persons/camillashm){target='_blank'}, [Henrik Jørgensen](https://www.au.dk/en/norhj@cc.au.dk){target='_blank'} and I published a paper in the Danish journal *Danske Studier* that critically compares the modern Danish-language textbooks in phonetics. The paper can be found [here](https://rasmuspuggaard.wordpress.com/wp-content/uploads/2025/05/2025_danskestudier.pdf){target='_blank'}.
 
+<!--
 * I will be at the sixth [Phonetics and Phonology in Europe](https://agenda.uib.es/120122/section/52273/6th-phonetics-and-phonology-in-europe-pape-2025.html){target='_blank'} conference in Mallorca in June, where I'll present co-authored work with [James Kirby](https://www.phonetik.uni-muenchen.de/~jkirby/){target='_blank'} and [Nicolai Pharao](https://nors.ku.dk/ansatte/?pure=da/persons/164799){target='_blank'} on the interaction between co-intrinsic *F*~0~ caused by the laryngeal contrast in stops and other prosodic demands on pitch level in Danish. 
+-->
