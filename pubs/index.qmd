@@ -254,9 +254,15 @@ Jepson, Kathleen & **Rasmus Puggaard-Rode**. "An iconic prosodic pattern in thre
 
 ### Software
 
+Kirby, James & **Rasmus Puggaard-Rode**. `praatsauce`. *Praat-based tools for spectral analysis*. Suite of Praat scripts, version 1.0.3. (April 2017--June 2025). [Available on GitHub](https://github.com/kirbyj/praatsauce){target='_blank'}.
+
+**Puggaard-Rode, Rasmus** & James Kirby. `sauceshelf`. *Analyze voice quality with various source algorithms*. R package version 0.0.4. (May--June 2025). [Available on GitHub](https://github.com/rpuggaardrode/sauceshelf){target='_blank'}.
+
 `praatpicture`. *Make Praat Picture style plots of acoustic data*. R package version 1.4.3. (August 2023--May 2025) [Available on CRAN](https://cran.r-project.org/web/packages/praatpicture/index.html){target='_blank'}.
 
-`reapeR`. *Robust epoch and pitch estimation in R*. R package version 0.0.6 (October--April 2025). [Available on GitHub](https://github.com/rpuggaardrode/reapeR){target='_blank'}.
+`praatutils`. *Utilities for calling Praat from R*. R package version 0.0.1. (May 2025). [Available on GitHub](https://github.com/rpuggaardrode/praatutils){target='_blank'}.
+
+`reapeR`. *Robust epoch and pitch estimation in R*. R package version 0.0.6. (October--April 2025). [Available on GitHub](https://github.com/rpuggaardrode/reapeR){target='_blank'}.
 
 `getVOT`. *Predict voice onset time*. R package version 0.2.0. (February 2023--November 2024). [Available on GitHub](https://github.com/rpuggaardrode/getVOT){target='_blank'}.
 
