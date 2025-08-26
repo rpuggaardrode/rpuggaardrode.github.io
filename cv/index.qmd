@@ -79,6 +79,15 @@ Aarhus University Linguistics Department travel grant, €200]{.column-body}
 ## Conference and workshop organization
 
 [<font size='3' color='grey'>2024</font>]{.column-sidebar}
+[*Lookiiiiiiiiiiing at stylised sustained prosody around Australia* <br>
+Special session of *Australian Linguistic Society* 58 hosted at McGriffith University, 2--5 December <br> Co-organized with Kathleen Jepson and John Mansfield]{.column-body}
+
+[<font size='3' color='grey'>2024</font>]{.column-sidebar}
+[*Phonetics and Phonology in Denmark* 4 <br>
+University of Copenhagen, 7--8 October <br>
+Co-organized with Nicolai Pharao and Anna Jespersen]{.column-body}
+
+[<font size='3' color='grey'>2024</font>]{.column-sidebar}
 [*How segments influence prosody in the languages of the world* <br>
 Special session of *Speech Prosody* hosted at Leiden University, 2--5 July <br> Co-organized with Menghui Shi]{.column-body}
 
@@ -104,8 +113,9 @@ National Science Centre Poland, OPUS-26 scheme (2024)
 
 *Computational Intelligence and Neuroscience* (2022) <br>
 *Glossa* (2021) <br>
-*Journal of the Acoustical Society of America* (2024 x 2) <br>
+*Journal of Linguistics* (2025) <br>
 *Journal of Phonetics* (2025) <br>
+*Journal of the Acoustical Society of America* (2024 x 2) <br>
 *Laboratory Phonology* (2023) <br>
 *Languages* (2024, 2025 x 2) <br>
 *Nydanske Sprogstudier* (2023) <br>
@@ -126,6 +136,7 @@ Springer (2023)
 
 #### Conference abstracts
 
+*Australian Linguistic Society* (2025) <br>
 *Conference of the Student Organization for Linguistics in Europe* (2023) <br>
 *International Conference on Tone and Intonation* (2025) <br>
 *Laboratory Phonology* (2022) <br>

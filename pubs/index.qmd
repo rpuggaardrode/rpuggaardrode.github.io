@@ -47,6 +47,8 @@ Steensig, Jakob, Karen Kiil Brøcker, Caroline Grønkjær, Magnus Glenvad Tind H
 
 ### Articles in conference proceedings
 
+Watkins, Michaela, **Rasmus Puggaard-Rode**, Paul Boersma & Silke Hamann. 2025. Robustness of F0 Ratio as a diagnostic. Comparing creaky voice in Danish and Seoul Korean. In Odette Scharenborg, Catharine Oertel & Khiet Truong (eds.), *Proceedings of Interspeech 2025*, doi:10.21437/Interspeech.2025-1949. [open access](https://www.isca-archive.org/interspeech_2025/watkins25_interspeech.html){target='_blank'}.
+
 **Puggaard-Rode, Rasmus** & Kathleen Jepson. 2024. Stop production in Dhuwaya. Implications for literacy teaching. In Pärtel Lippus (ed.), *Proceedings of the 5th International Symposium on Applied Phonetics*, 71--76. International Speech Communication Association. doi:10.21437/ISAPh.2024-14. [open access](https://doi.org/10.21437/ISAPh.2024-14){target='_blank'}
 
 Jepson, Kathleen & **Rasmus Puggaard-Rode**. 2024. Vowel duration beyond contrastive length in Djambarrpuyŋu. In Olga Maxwell & Rikke Bundgaard-Nielsen (eds.), *Proceedings of the 19th Australasian International Conference on Speech Science and Technology*, 142--146. Australasian Speech Science and Techonology Association. [open access](https://assta.org/wp-content/uploads/2024/11/No_29_Jepson_Puggaard-Rode_2024_142_146.pdf){target='_blank'}
@@ -154,13 +156,14 @@ Steensig, Jakob, Tina Mølgaard, **Rasmus Puggaard Hansen**, Emilie Tholstrup, N
 
 ### Posters
 
+[see [Watkins et al. 2025](https://www.isca-archive.org/interspeech_2025/watkins25_interspeech.html){target='_blank'}]{.aside}
 Watkins, Michaela, **Rasmus Puggaard-Rode**, Paula Boersma & Silke Hamann. "Robustness of F0 Ratio as a diagnostic. Comparing creaky voice in Danish and Seoul Korean", *Interspeech* 26, August 17--21, 2025, Ahoy Convention Centre, Rotterdam.
 
 **Puggaard-Rode, Rasmus**, James Kirby & Nicolai Pharao. "The source and significance of consonant-intrinsic pitch. New evidence from Danish", *Phonetics and Phonology in Europe* 6, June 25--27, 2025, University of the Balearic Islands, Palma de Mallorca. [abstract](https://agenda.uib.es/getFiles/hash/Y3UmMjNDO2UTN5gjNwUWNllTYmBTZjZTMAjZ0AjNyMz:Qy9zMThlV0lpQVIxMkRwenIxSEhMK2ZzTFFaZGlUaTBSaHdIVjJxZFp6SGlsY0Y4YWszaFc5TUFVQ1FzK1hDYXhhb3Y1M3ZtbWJ5akdaSTNrL09wS2dQTmRNUCtXUVZqZEJIVUptVnJ5SFQzdS8wRXQvVDB6UndiK0ZWaUFaYXBKYjIrT3FvK1BFWTh2bHZaRURhSkRINUtSRGtNU0hPbUVJV2FxZ1ppdi9JQVlpaElyZkhRQ2lrQ1ladElIQXVjN3B3bGdRU1pWbEJTYktKY2pVRzBmVjRzWHBnSUFuV2ZTTGppU2hNaWVONzFBeVFoaDR0NWxYV0VVRXQwOTFYOA==){target='_blank'} | [poster](https://rpuggaardrode.github.io/cf0dan/pape){target='_blank'}
 
 Pharao, Nicolai & **Rasmus Puggaard-Rode**. "A pitch accent for contrastive emphasis in Danish?", *International Conference on Tone and Intonation* 3, May 16--18, 2025, Haus der Bayerischen Landwirdschaft, Herrsching. [abstract](https://www.tai2025.org/docs/TAI2025_abstract_book.pdf#page=94){target='_blank'} | [poster](https://rpuggaardrode.github.io/tai){target='_blank'}
 
-[see [Puggaard-Rode 2023--2024](https://github.com/rpuggaardrode/praatpicture){target='_blank'}, [2024](https://www.isca-archive.org/issp_2024/puggaardrode24_issp.html){target='_blank'}]{.aside}
+[see [Puggaard-Rode 2023--2025](https://github.com/rpuggaardrode/praatpicture){target='_blank'}, [2024](https://www.isca-archive.org/issp_2024/puggaardrode24_issp.html){target='_blank'}]{.aside}
 **Puggaard-Rode, Rasmus**. "`praatpicture`. A library for making flexible Praat Picture-style figures in R", *International Seminar on Speech Production* 13, May 13--17, 2024, L'Escandille, Autrans--Méaudre en Vercors. [abstract](https://rasmuspuggaard.files.wordpress.com/2024/02/2024_issp.pdf){target='_blank'} | [poster](https://rasmuspuggaard.wordpress.com/wp-content/uploads/2024/05/2024_issp_poster.pdf){target='_blank'} | [paper](https://www.isca-archive.org/issp_2024/puggaardrode24_issp.html){target='_blank'}
 
 Tan, Maryann, James Kirby & **Rasmus Puggaard-Rode**. "Investigating the effects of laryngeal contrasts on vowel fundamental frequency in Central Swedish stop consonants", *Fonologi i Norden* 9, February 23--24, 2024, Stockholm University. [abstract](https://rasmuspuggaard.files.wordpress.com/2024/02/2024_fino_swe.pdf){target='_blank'} | [poster](https://rasmuspuggaard.files.wordpress.com/2024/03/2024_fino_poster.pdf){target='_blank'}
@@ -209,10 +212,10 @@ Kirby, James, **Rasmus Puggaard-Rode**, Francesco Burroni & Sireemas Maspong. "E
 
 Jepson, Kathleen & **Rasmus Puggaard-Rode**. "An iconic prosodic pattern in three Australian languages", Institute for Phonetics and Speech Processing PhD and Postdoc Kolloquium, April 25, 2024, Ludwig Maximilian University of Munich.
 
-[see [Puggaard-Rode 2023--2024](https://github.com/rpuggaardrode/praatpicture){target='_blank'}, [2024](https://issp24.sciencesconf.org/data/pages/proceedings_long_papers.pdf#page=157){target='_blank'}]{.aside}
+[see [Puggaard-Rode 2023--2025](https://github.com/rpuggaardrode/praatpicture){target='_blank'}, [2024](https://issp24.sciencesconf.org/data/pages/proceedings_long_papers.pdf#page=157){target='_blank'}]{.aside}
 **Puggaard-Rode, Rasmus**. "Introducing `praatpicture`, an R package for people who like the way Praat's figures look but would prefer not to make them in Praat", Institute for Phonetics and Speech Processing PhD and Postdoc Kolloquium, February 1, 2024, Ludwig Maximilian University of Munich.
 
-[see [Puggaard-Rode 2023--2024](https://github.com/rpuggaardrode/praatpicture){target='_blank'}, [2024](https://issp24.sciencesconf.org/data/pages/proceedings_long_papers.pdf#page=157){target='_blank'}]{.aside}
+[see [Puggaard-Rode 2023--2025](https://github.com/rpuggaardrode/praatpicture){target='_blank'}, [2024](https://issp24.sciencesconf.org/data/pages/proceedings_long_papers.pdf#page=157){target='_blank'}]{.aside}
 **Puggaard-Rode, Rasmus**. `praatpicture` demonstration. December 7, 2023, Lancaster University Phonetics Lab.
 
 [see [Puggaard-Rode 2023](https://lingmethodshub.github.io/content/R/getVOT-tutorial/){target='_blank'}]{.aside}
@@ -258,17 +261,17 @@ Jepson, Kathleen & **Rasmus Puggaard-Rode**. "An iconic prosodic pattern in thre
 
 Kirby, James & **Rasmus Puggaard-Rode**. `praatsauce`. *Praat-based tools for spectral analysis*. Suite of Praat scripts, version 1.0.3. (April 2017--June 2025). [Available on GitHub](https://github.com/kirbyj/praatsauce){target='_blank'}.
 
-**Puggaard-Rode, Rasmus** & James Kirby. `sauceshelf`. *Analyze voice quality with various source algorithms*. R package version 0.0.4. (May--June 2025). [Available on GitHub](https://github.com/rpuggaardrode/sauceshelf){target='_blank'}.
+**Puggaard-Rode, Rasmus** & James Kirby. `sauceshelf`. *Analyze voice quality with various source algorithms*. R package version 0.1.4. (May--July 2025). [Available on GitHub](https://github.com/rpuggaardrode/sauceshelf){target='_blank'}.
 
-`praatpicture`. *Make Praat Picture style plots of acoustic data*. R package version 1.4.3. (August 2023--May 2025) [Available on CRAN](https://cran.r-project.org/web/packages/praatpicture/index.html){target='_blank'}.
+`praatpicture`. *Make Praat Picture style plots of acoustic data*. R package version 1.6.2. (August 2023--August 2025) [Available on CRAN](https://cran.r-project.org/web/packages/praatpicture/index.html){target='_blank'}.
 
-`praatutils`. *Utilities for calling Praat from R*. R package version 0.0.1. (May 2025). [Available on GitHub](https://github.com/rpuggaardrode/praatutils){target='_blank'}.
+`praatutils`. *Utilities for calling Praat from R*. R package version 0.0.2. (May--June 2025). [Available on GitHub](https://github.com/rpuggaardrode/praatutils){target='_blank'}.
 
-`reapeR`. *Robust epoch and pitch estimation in R*. R package version 0.0.6. (October--April 2025). [Available on GitHub](https://github.com/rpuggaardrode/reapeR){target='_blank'}.
+`reapeR`. *Robust epoch and pitch estimation in R*. R package version 0.0.9. (October 2024--July 2025). [Available on GitHub](https://github.com/rpuggaardrode/reapeR){target='_blank'}.
 
-`getVOT`. *Predict voice onset time*. R package version 0.2.0. (February 2023--November 2024). [Available on GitHub](https://github.com/rpuggaardrode/getVOT){target='_blank'}.
+`getVOT`. *Predict voice onset time*. R package version 0.2.3. (February 2023--June 2025). [Available on GitHub](https://github.com/rpuggaardrode/getVOT){target='_blank'}.
 
-`emuhelpeR`. *Convenience functions for working with* `emuR`. R package version 0.1.5 (January 2023--January 2024). [Available on GitHub](https://github.com/rpuggaardrode/emuhelpeR){target='_blank'}.
+`emuhelpeR`. *Convenience functions for working with* `emuR`. R package version 0.1.5 (January 2023--March 2024). [Available on GitHub](https://github.com/rpuggaardrode/emuhelpeR){target='_blank'}.
 
 `phonfeatures`. *Assign features to phonetic characters*. R package version 0.1.2 (January--February 2023). [Available on GitHub](https://github.com/rpuggaardrode/phonfeatures){target='_blank'}.
 
