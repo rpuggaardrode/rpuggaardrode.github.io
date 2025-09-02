@@ -177,6 +177,7 @@ Jørgensen, Henrik, **Rasmus Puggaard-Rode** & Camilla Søballe Horslund. "The p
 [see [Puggaard-Rode 2023: chapter 3](http://dx.doi.org/10.48273/LOT0631){target='_blank'}]{.aside}
 **Puggaard-Rode, Rasmus**, Camilla Søballe Horslund & Henrik Jørgensen. “Modern Standard Danish stop gradations explained diachronically”, *Edinburgh Symposium on Historical Phonology* 5, December 6--8, 2021, virtual meeting hosted at University of Edinburgh. [abstract](https://rasmuspuggaard.files.wordpress.com/2021/11/esohp-abstract.pdf){target='_blank'} | [poster](https://rasmuspuggaard.files.wordpress.com/2021/12/eshp-5-poster.pdf){target='_blank'}
 
+[see [Puggaard-Rode et al. 2023](http://doi.org/10.1093/oso/9780198791126.003.0012){target='_blank'}]{.aside}
 Grijzenhout, Janet, **Rasmus Puggaard** & Bert Botma. “Laryngeal timing relationships in Germanic. A Q Theory approach”, *Berkeley Linguistics Society -- Phonological Representations. At the Crossroad between Gradience and Categoricity*, February 7--8, 2020, University of California -- Berkeley. [abstract](https://rasmuspuggaard.files.wordpress.com/2019/12/2020_bls.pdf){target='_blank'} | [poster](https://rasmuspuggaard.files.wordpress.com/2020/02/2020_berkeley-linguistics-society.pdf){target='_blank'}
 
 [see [Goldshtein & Puggaard 2019](https://rasmuspuggaard.files.wordpress.com/2020/07/2019_ordsag.pdf){target='_blank'}, [Puggaard 2021](https://rasmuspuggaard.files.wordpress.com/2021/06/puggaard-2021_modeling-regional-variation-in-voice-onset-time-of-jutlandic-varieties-of-danish.pdf){target='_blank'}, [Puggaard-Rode 2023: chapter 6](http://dx.doi.org/10.48273/LOT0631){target='_blank'}, [2024](https://www.sciencedirect.com/science/article/pii/S0095447024000603){target='_blank'}]{.aside}
@@ -210,6 +211,7 @@ Grijzenhout, Janet, **Rasmus Puggaard** & Bert Botma. “On pees and bees”, op
 [see [Kirby et al. 2024](https://www.isca-archive.org/speechprosody_2024/kirby24_speechprosody.html){target='_blank'}]{.aside}
 Kirby, James, **Rasmus Puggaard-Rode**, Francesco Burroni & Sireemas Maspong. "Effects of coda consonants on preceding vowel F0 in Eastern Khmu'". Institute for Phonetics and Speech Processing PhD and Postdoc Kolloquium, June 20, 2024, Ludwig Maximilian University of Munich.
 
+[see [Jepson et al. 2024](https://www.isca-archive.org/speechprosody_2024/jepson24_speechprosody.html){target='_blank'}]{.aside}
 Jepson, Kathleen & **Rasmus Puggaard-Rode**. "An iconic prosodic pattern in three Australian languages", Institute for Phonetics and Speech Processing PhD and Postdoc Kolloquium, April 25, 2024, Ludwig Maximilian University of Munich.
 
 [see [Puggaard-Rode 2023--2025](https://github.com/rpuggaardrode/praatpicture){target='_blank'}, [2024](https://issp24.sciencesconf.org/data/pages/proceedings_long_papers.pdf#page=157){target='_blank'}]{.aside}
@@ -247,6 +249,7 @@ Jepson, Kathleen & **Rasmus Puggaard-Rode**. "An iconic prosodic pattern in thre
 
 **Puggaard, Rasmus**. “Data management and data sharing. The linguist’s perspective”, guest lecture at data management training course for graduate students, November 23, 2020, Leiden University Centre for Linguistics. Course coordinator: Fieke Schoots.
 
+[see [Puggaard-Rode et al. 2023](http://doi.org/10.1093/oso/9780198791126.003.0012){target='_blank'}]{.aside}
 **Puggaard, Rasmus**. “Looking into stops. Phonological representation below the level of the segment”, *Sounds of Language and Speech*, October 26, 2020, virtual colloquium hosted at Aarhus University. [slides](https://rasmuspuggaard.files.wordpress.com/2022/01/2020_phonphon.pdf){target='_blank'}
 
 [see [Goldshtein & Puggaard 2019](https://rasmuspuggaard.files.wordpress.com/2020/07/2019_ordsag.pdf){target='_blank'}, [Puggaard 2021](https://rasmuspuggaard.files.wordpress.com/2021/06/puggaard-2021_modeling-regional-variation-in-voice-onset-time-of-jutlandic-varieties-of-danish.pdf){target='_blank'}, [Puggaard-Rode 2023: chapter 6](http://dx.doi.org/10.48273/LOT0631){target='_blank'}, [2024](https://www.sciencedirect.com/science/article/pii/S0095447024000603){target='_blank'}]{.aside}
