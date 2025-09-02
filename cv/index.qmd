@@ -8,6 +8,10 @@ format:
 
 ## Academic positions
 
+<font size='3' color='grey'>2025--</font> <br>
+Associate Professor of Phonetics <br>
+**Faculty of Linguistics, Philology and Phonetics, University of Oxford**
+
 <font size='3' color='grey'>2022--2025</font> <br>
 Postdoctoral research scientist <br>
 **Institute for Phonetics and Speech Processing, Ludwig Maximilian University, Munich**
