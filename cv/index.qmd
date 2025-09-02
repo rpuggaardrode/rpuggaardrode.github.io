@@ -2,106 +2,107 @@
 format:
   html:
     toc: true
-    toc-location: right
+    toc-location: left
     toc-depth: 4
 ---
 
 ## Academic positions
 
-[<font size='3' color='grey'>2022--</font>]{.column-sidebar}
-[Postdoctoral research scientist <br> **Institute for Phonetics and Speech Processing, Ludwig Maximilian University, Munich**]{.column-body}
+<font size='3' color='grey'>2022--2025</font> <br>
+Postdoctoral research scientist <br>
+**Institute for Phonetics and Speech Processing, Ludwig Maximilian University, Munich**
 
-[<font size='3' color='grey'>2021--2022</font>]{.column-sidebar}
-[Two fixed-term part-time positions as lecturer <br> **Amsterdam Center for Language and Communication, University of Amsterdam**]{.column-body}
+<font size='3' color='grey'>2021--2022</font> <br>
+Two fixed-term part-time positions as lecturer <br> **Amsterdam Center for Language and Communication, University of Amsterdam**
 
-[<font size='3' color='grey'>2018--2022</font>]{.column-sidebar}
-[PhD fellow <br> **Leiden University Centre for Linguistics**]{.column-body}
+<font size='3' color='grey'>2018--2022</font> <br>
+PhD fellow <br> 
+**Leiden University Centre for Linguistics**
 
-[<font size='3' color='grey'>2013--2017</font>]{.column-sidebar}
-[Various teaching and research assistant positions <br> **School of Culture and Society, Aarhus University**]{.column-body}
+<font size='3' color='grey'>2013--2017</font> <br> Various teaching and research assistant positions <br> **School of Culture and Society, Aarhus University**
 
 ## Education
 
-[<font size='3' color='grey'>2023</font>]{.column-sidebar}
-[**PhD** in Linguistics <br> **Leiden University**]{.column-body}
+<font size='3' color='grey'>2023</font> <br> **PhD** in Linguistics <br> **Leiden University**
 
-[<font size='3' color='grey'>2018</font>]{.column-sidebar}
-[**MA** in Linguistics <br> **Aarhus University**]{.column-body}
+<font size='3' color='grey'>2018</font> <br> **MA** in Linguistics <br> **Aarhus University**
 
-[<font size='3' color='grey'>2016</font>]{.column-sidebar}
-[**BA** in Linguistics and China Studies <br> **Aarhus University**]{.column-body}
+<font size='3' color='grey'>2016</font> <br> **BA** in Linguistics and China Studies <br> **Aarhus University**
 
 ## Internationalization
 
-[<font size='3' color='grey'>2020</font>]{.column-sidebar}
-[**The Arctic University of Norway -- Tromsø** <br>
+<font size='3' color='grey'>2020</font> <br> **The Arctic University of Norway -- Tromsø** <br>
 Center for Advanced Studies in Linguistics <br>
-3 month research visit]{.column-body}
+3 month research visit
 
-[<font size='3' color='grey'>2018</font>]{.column-sidebar}
-[**Aarhus University** <br>
+<font size='3' color='grey'>2018</font> <br> **Aarhus University** <br>
 Peter Skautrup Centre for Jutlandic Dialect Research <br>
-2 month research visit]{.column-body}
+2 month research visit
 
-[<font size='3' color='grey'>2017--2018</font>]{.column-sidebar}
-[**KU Leuven** <br>
+<font size='3' color='grey'>2017--2018</font> <br> **KU Leuven** <br>
 ResMA Advanced Studies in Linguistics <br>
-Full semester exchange]{.column-body}
+Full semester exchange
 
-[<font size='3' color='grey'>2016</font>]{.column-sidebar}
-[**Peking University** <br>
+<font size='3' color='grey'>2016</font> <br> **Peking University** <br>
 European--Chinese Language and Culture Programme <br>
-Full semester exchange]{.column-body}
+Full semester exchange
 
 ## Research grants
 
-[<font size='3' color='grey'>2024</font>]{.column-sidebar}
-[Carlsberg Foundation Reintegration Fellowship (CF24-1380), DKK 1,899,313 (approx. €250,000) <br>
+<font size='3' color='grey'>2024</font> <br> Carlsberg Foundation Reintegration Fellowship (CF24-1380), DKK 1,899,313 (approx. €250,000) <br>
 *Category-shifting Change in Real Time* (CatChaRT) <br>
-(annulled due to scheduling conflict)]{.column-body}
+(annulled due to scheduling conflict)
 
 ## Other grants and awards
 
-[<font size='3' color='grey'>2024</font>]{.column-sidebar}
-[*Journal of Phonetics* 2023 Best Early Career Scholar's Article of the Year, $250]{.column-body}
+<font size='3' color='grey'>2024</font> &emsp; *Journal of Phonetics* 2023 Best Early Career Scholar's Article of the Year, $250 <br>
+<font size='3' color='grey'>2020</font> &emsp; William Demant Fonden travel grant, €800 (annulled due to COVID-19 outbreak) <br>
+<font size='3' color='grey'>2020</font> &emsp; Leids Universiteits Fonds travel grant, €1.600 <br>
+<font size='3' color='grey'>2017</font> &emsp; Aarhus University Arts travel grant, €550 <br>
+<font size='3' color='grey'>2015</font> &emsp; Aarhus University Arts travel grant, €800 <br>
+<font size='3' color='grey'>2015</font> &emsp; Aarhus University Linguistics Department travel grant, €200
 
-[<font size='3' color='grey'>2020</font>]{.column-sidebar}
-[William Demant Fonden travel grant, €800 (annulled due to COVID-19 outbreak) <br>
-Leids Universiteits Fonds travel grant, €1.600]{.column-body}
+## Service roles
 
-[<font size='3' color='grey'>2017</font>]{.column-sidebar}
-[Aarhus University Arts travel grant, €550]{.column-body}
+#### Kellogg College
 
-[<font size='3' color='grey'>2015</font>]{.column-sidebar}
-[Aarhus University Arts travel grant, €800 <br>
-Aarhus University Linguistics Department travel grant, €200]{.column-body}
+<font size='3' color='grey'>2024--</font> &emsp; &emsp; &ensp; Governing Body member
+
+#### Aarhus University
+
+<font size='3' color='grey'>2017</font> &emsp; &emsp; &emsp; Grade appeal board member <br>
+<font size='3' color='grey'>2013--2018</font> &emsp;&thinsp; Freshers week organization and assistance <br>
+<font size='3' color='grey'>2014</font> &emsp; &emsp; &emsp; Mentoring for new undergraduate students
+
+#### Other roles
+
+<font size='3' color='grey'>2021--2023</font> &emsp;&thinsp; Board member of [*Student Organization of Linguistics in Europe*](https://www.universiteitleiden.nl/en/events/series/sole){target='_blank'} <br>
+<font size='3' color='grey'>2014</font> &emsp; &emsp; &emsp; Co-founder and editor of [*Skrifter om Samtalegrammatik*](https://samtalegrammatik.dk/tidsskrift){target="_blank"} <br>
+<font size='3' color='grey'>2013--2018</font> &emsp;&thinsp; Wed editor of [samtalegrammatik.dk](https://samtalegrammatik.dk){target="_blank"}
 
 ## Conference and workshop organization
 
-[<font size='3' color='grey'>2024</font>]{.column-sidebar}
-[*Lookiiiiiiiiiiing at stylised sustained prosody around Australia* <br>
-Special session of *Australian Linguistic Society* 58 hosted at McGriffith University, 2--5 December <br> Co-organized with Kathleen Jepson and John Mansfield]{.column-body}
+*Lookiiiiiiiiiiing at stylised sustained prosody around Australia* <br>
+Special session of *Australian Linguistic Society* 58 hosted at McGriffith University, 2--5 December, 2025 <br> Co-organized with Kathleen Jepson and John Mansfield
 
-[<font size='3' color='grey'>2024</font>]{.column-sidebar}
-[*Phonetics and Phonology in Denmark* 4 <br>
-University of Copenhagen, 7--8 October <br>
-Co-organized with Nicolai Pharao and Anna Jespersen]{.column-body}
+*Phonetics and Phonology in Denmark* 4 <br>
+University of Copenhagen, 7--8 October, 2024 <br>
+Co-organized with Nicolai Pharao and Anna Jespersen
 
-[<font size='3' color='grey'>2024</font>]{.column-sidebar}
-[*How segments influence prosody in the languages of the world* <br>
-Special session of *Speech Prosody* hosted at Leiden University, 2--5 July <br> Co-organized with Menghui Shi]{.column-body}
+*How segments influence prosody in the languages of the world* <br>
+Special session of *Speech Prosody* hosted at Leiden University, 2--5 July, 2024 <br> Co-organized with Menghui Shi
 
-[<font size='3' color='grey'>2021</font>]{.column-sidebar}
-[*Conference of the Student Organization of Linguistics in Europe* 29 <br>
-Digital meeting hosted at Leiden University, 26--28 January]{.column-body}
+*Conference of the Student Organization of Linguistics in Europe* 29 <br>
+Digital meeting hosted at Leiden University, 26--28 January, 2021 <br>
+Member of organizing committee
 
-[<font size='3' color='grey'>2018</font>]{.column-sidebar}
-[*Nordic Interdisciplinary Conference on Discourse and Interaction* 5 <br>
-Aarhus University, 21--23 November]{.column-body}
+*Nordic Interdisciplinary Conference on Discourse and Interaction* 5 <br>
+Aarhus University, 21--23 November, 2018 <br>
+Student assistant
 
-[<font size='3' color='grey'>2015</font>]{.column-sidebar}
-[*Bias in Auditory Perception* <br>
-Aarhus University, 18--20 September]{.column-body}
+*Bias in Auditory Perception* <br>
+Aarhus University, 18--20 September, 2015 <br>
+Student assistant
 
 ## Reviewing
 
@@ -142,61 +143,14 @@ Springer (2023)
 *Laboratory Phonology* (2022) <br>
 *Phonology in the Nordic Countries* (2021)
 
-## Other service
-
-#### Professional service and outreach
-
-[<font size='3' color='grey'>2024</font>]{.column-sidebar}
-[Member of panel to reform the phonetic annotations of the dictionary *Den danske ordbog*]{.column-body}
-
-[<font size='3' color='grey'>2021--2023</font>]{.column-sidebar}
-[Board member of *[Student Organization of Linguistics in Europe](https://www.universiteitleiden.nl/en/events/series/sole){target="_blank"}*]{.column-body}
-
-[<font size='3' color='grey'>2017--2018</font>]{.column-sidebar}
-[High school presentations with the *Danish Talk-in-Interaction* (DanTIN) group]{.column-body}
-
-[<font size='3' color='grey'>2014--2015</font>]{.column-sidebar}
-[Research assistant for the *Cognitive Creolistics* project at Aarhus University]{.column-body}
-
-[<font size='3' color='grey'>2014</font>]{.column-sidebar}
-[Establishing and editing working papers journal *[Skrifter om Samtalegrammatik](https://samtalegrammatik.dk/tidsskrift){target="_blank"}*]{.column-body}
-
-[<font size='3' color='grey'>2013--2018</font>]{.column-sidebar}
-[Establishing and editing [samtalegrammatik.dk](https://samtalegrammatik.dk){target="_blank"}]{.column-body}
-
-#### University service
-
-[<font size='3' color='grey'>2017</font>]{.column-sidebar}
-[Student member of grade appeal board]{.column-body}
-
-[<font size='3' color='grey'>2015--2018</font>]{.column-sidebar}
-[Exercises with new students during intro week in BA Linguistics, Aarhus University]{.column-body}
-
-[<font size='3' color='grey'>2014</font>]{.column-sidebar}
-[Mentor for new undergraduate students in BA Linguistics, Aarhus University]{.column-body}
-
-[<font size='3' color='grey'>2013</font>]{.column-sidebar}
-[Organizing and hosting intro week for new undergraduate students in BA Linguistics, Aarhus University]{.column-body}
-
 ## Affiliated research networks
 
-[<font size='3' color='grey'>2022--</font>]{.column-sidebar}
-[[Empirical Foundations of Phonology (EmpiPhon)](https://aclc.uva.nl/content/research-groups/empiphon/empiphon.html){target="_blank"}]{.column-body}
-
-[<font size='3' color='grey'>2020--2022</font>]{.column-sidebar}
-[Open Science Community, Leiden]{.column-body}
-
-[<font size='3' color='grey'>2020--2021</font>]{.column-sidebar}
-[Tromsø/Verona phonology circle]{.column-body}
-
-[<font size='3' color='grey'>2017--</font>]{.column-sidebar}
-[[Sounds of Language and Speech](https://soundsoflanguageandspeech.wordpress.com/){target="_blank"} (Aarhus University)]{.column-body}
-
-[<font size='3' color='grey'>2015</font>]{.column-sidebar}
-[Danish-accented Chinese (Aarhus University)]{.column-body}
-
-[<font size='3' color='grey'>2013--2018</font>]{.column-sidebar}
-[Danish Talk-in-Interaction (DanTiN)]{.column-body}
+<font size='3' color='grey'>2022--2023</font> &emsp;&thinsp; [Empirical Foundations of Phonology (EmpiPhon)](https://aclc.uva.nl/content/research-groups/empiphon/empiphon.html){target="_blank"} <br>
+<font size='3' color='grey'>2020--2022</font> &emsp;&thinsp; Open Science Community, Leiden <br>
+<font size='3' color='grey'>2020--2021</font> &emsp;&thinsp; Tromsø/Verona phonology circle <br>
+<font size='3' color='grey'>2017--</font> &emsp; &emsp; &ensp; [Sounds of Language and Speech](https://soundsoflanguageandspeech.wordpress.com/){target="_blank"} (Aarhus University) <br>
+<font size='3' color='grey'>2015</font> &emsp; &emsp; &emsp; Danish-accented Chinese (Aarhus University) <br>
+<font size='3' color='grey'>2013--2018</font> &emsp;&thinsp; Danish Talk-in-Interaction (DanTiN)
 
 ## Languages
 
@@ -267,106 +221,106 @@ Multiple correspondence analysis
 
 #### Ludwig Maximilian University, Munich
 
-[<font size='3' color='grey'>2023</font>]{.column-sidebar}
-[*Phonetics and statistics* <br>
+<font size='3' color='grey'>2023</font> <br>
+*Phonetics and statistics* <br>
 BA3 Phonetics and Speech Processing <br>
 Taught seminars, graded weekly exercises <br>
-Course coordinator: James Kirby]{.column-body}
+Course coordinator: James Kirby
 
 #### University of Amsterdam
 
-[<font size='3' color='grey'>2022</font>]{.column-sidebar}
-[*Introduction to linguistics* <br>
+<font size='3' color='grey'>2022</font> <br>
+*Introduction to linguistics* <br>
 BA1 Linguistics <br>
 Taught seminars (two groups), graded final presentations <br>
-Course coordinator: Enoch O. Aboh]{.column-body}
+Course coordinator: Enoch O. Aboh
 
-[<font size='3' color='grey'>2021</font>]{.column-sidebar}
-[*Phonetics* <br>
+<font size='3' color='grey'>2021</font> <br>
+*Phonetics* <br>
 BA1 Linguistics <br>
 Taught seminars (two groups) in a hybrid format, graded weekly exercises <br>
 Course coordinator: Marijn van 't Veer <br>
-*Nominated for the Faculty of Humanities Education Award 2022*]{.column-body}
+*Nominated for the Faculty of Humanities Education Award 2022*
 
-[<font size='3' color='grey'>2021</font>]{.column-sidebar}
-[*Phonology* <br>
+<font size='3' color='grey'>2021</font> <br>*Phonology* <br>
 BA2 Linguistics <br>
 Taught seminars in a hybrid format, graded exercises and final presentations <br>
 Course coordinator: Silke Hamann <br>
-*Nominated for the Faculty of Humanities Education Award 2022*]{.column-body}
+*Nominated for the Faculty of Humanities Education Award 2022*
 
 #### Leiden University
 
-[<font size='3' color='grey'>2022</font>]{.column-sidebar}
-[*Words, sentences, and sounds in interaction* <br>
+<font size='3' color='grey'>2022</font> <br>
+*Words, sentences, and sounds in interaction* <br>
 BA3 English Language & Culture <br>
-Co-taught and co-coordinated with Janet Grijzenhout]{.column-body}
+Co-taught and co-coordinated with Janet Grijzenhout
 
-[<font size='3' color='grey'>2022</font>]{.column-sidebar}
-[*Analyzing English words and sounds* <br>
+<font size='3' color='grey'>2022</font> <br>
+*Analyzing English words and sounds* <br>
 BA1 English Language & Culture <br>
 Taught seminars (two groups) and gave one lecture <br>
-Course coordinators: Bert Botma and Marion Elenbaas]{.column-body}
+Course coordinators: Bert Botma and Marion Elenbaas
 
-[<font size='3' color='grey'>2019--2021</font>]{.column-sidebar}
-[*The phonetics of English* <br>
+<font size='3' color='grey'>2019--2021</font> <br>*The phonetics of English* <br>
 BA1 English Language & Culture <br>
 2019: Taught seminars <br>
 2020: Taught seminars (three groups in person, one group online) and gave one online lecture <br>
 2021: Taught seminars in the first block <br>
-Course coordinator: Bert Botma]{.column-body}
+Course coordinator: Bert Botma
 
 #### Aarhus University
 
-[<font size='3' color='grey'>2016</font>]{.column-sidebar}
-[*Understanding linguistics* <br>
+<font size='3' color='grey'>2016</font> <br>*Understanding linguistics* <br>
 BA1 Linguistics <br>
 Taught seminars (two groups) <br>
-Course coordinator: William McGregor]{.column-body}
+Course coordinator: William McGregor
 
-[<font size='3' color='grey'>2014</font>]{.column-sidebar}
-[*Structure, meaning, and use* <br>
+<font size='3' color='grey'>2014</font> <br>*Structure, meaning, and use* <br>
 BA2 Linguistics <br>
 Teaching assistant, gave feedback on assignments <br>
-Course coordinator: Jan Rijkhoff]{.column-body}
+Course coordinator: Jan Rijkhoff
 
-[<font size='3' color='grey'>2014</font>]{.column-sidebar}
-[*Danish and the languages of the World* <br>
+<font size='3' color='grey'>2014</font> <br>
+*Danish and the languages of the World* <br>
 BA1 Linguistics <br>
 Teaching assistant, gave feedback on assignments <br>
-Course coordinator: Line Krogager Andersen]{.column-body}
+Course coordinator: Line Krogager Andersen
 
-[<font size='3' color='grey'>2013</font>]{.column-sidebar}
-[*Phonetics and phonology* <br>
+<font size='3' color='grey'>2013</font> <br>*Phonetics and phonology* <br>
 BA1 Linguistics <br>
 Taught seminars (three groups), graded assignments <br>
-Course coordinator: Marjoleine Sloos]{.column-body}
+Course coordinator: Marjoleine Sloos
 
 ### Workshops
 
-[<font size='3' color='grey'>2024</font>]{.column-sidebar}
-[*Plotting acoustics data with the* `praatpicture` *R library and Shiny app* <br>
+<font size='3' color='grey'>2024</font> <br>*Plotting acoustics data with the* `praatpicture` *R library and Shiny app* <br>
 3-hour workshop <br>
-*Phonetics and Phonology in Denmark* 4, University of Copenhagen]{.column-body}
+*Phonetics and Phonology in Denmark* 4, University of Copenhagen
 
-[<font size='3' color='grey'>2017</font>]{.column-sidebar}
-[*Acoustics and Praat* <br>
+<font size='3' color='grey'>2018</font> <br>
+*Skriftsprog vs talesprog* <br>
+4-hour workshop <br>
+Holstebro Gymnasium
+
+<font size='3' color='grey'>2017</font> <br>*Acoustics and Praat* <br>
 3-hour workshop <br>
-Department of Linguistics, Aarhus University]{.column-body}
+Department of Linguistics, Aarhus University
+
+<font size='3' color='grey'>2017</font> <br>
+*DanTiN: Danish Talk-in-Interaction* <br>
+4-hour workshop <br>
+*Herning Sprogfestival*, Herning Gymnasium
 
 ### Guest lectures
 
-[<font size='3' color='grey'>2021--2022</font>]{.column-sidebar}
-[*Advanced phonology 2* <br>
+<font size='3' color='grey'>2021--2022</font> <br>*Advanced phonology 2* <br>
 MA Linguistics, Leiden University <br>
-Course coordinator: Bert Botma]{.column-body}
+Course coordinator: Bert Botma
 
-[<font size='3' color='grey'>2020--2022</font>]{.column-sidebar}
-[*Data management* <br>
+<font size='3' color='grey'>2020--2022</font> <br>*Data management* <br>
 Centre for Linguistics graduate school, Leiden University <br>
-Course coordinators: Fieke Schoots and Kristina Hettne]{.column-body}
+Course coordinators: Fieke Schoots and Kristina Hettne
 
 ### Evaluation
 
-[<font size='3' color='grey'>2021</font>]{.column-sidebar}
-[Two BA theses in BA English Language & Culture, Leiden University]{.column-body}
+<font size='3' color='grey'>2021</font> &emsp; Two BA theses in BA English Language & Culture, Leiden University
