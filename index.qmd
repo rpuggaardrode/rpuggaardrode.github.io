@@ -8,8 +8,8 @@ about:
     - icon: envelope
       text: Email
       href: "mailto:r.puggaard@phonetik.uni-muenchen.de"
-    - text: "{{< iconify la university >}} LMU Munich"
-      href: https://www.en.phonetik.uni-muenchen.de/people/staff/puggaard-rode_rasmus/index.html
+    - text: "{{< iconify la university >}} Kellogg College"
+      href: https://www.kellogg.ox.ac.uk/our-people/rasmus-puggaard-rode/
     - icon: github
       text: GitHub
       href: https://github.com/rpuggaardrode
