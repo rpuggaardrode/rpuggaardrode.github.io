@@ -68,9 +68,16 @@ Full semester exchange
 
 ## Service roles
 
+#### University of Oxford
+
+<font size='3' color='grey'>2025--</font> &emsp; &emsp; &ensp; Graduate student course supervisor <br>
+<font size='3' color='grey'>2025--</font> &emsp; &emsp; &ensp; Co-convenor of General Linguistics Seminar <br>
+<font size='3' color='grey'>2025--</font> &emsp; &emsp; &ensp; Member of Faculty Laboraties Committee
+
 #### Kellogg College
 
-<font size='3' color='grey'>2024--</font> &emsp; &emsp; &ensp; Governing Body member
+<font size='3' color='grey'>2025--</font> &emsp; &emsp; &ensp; Governing Body member <br>
+<font size='3' color='grey'>2025--</font> &emsp; &emsp; &ensp; Graduate student advisor
 
 #### Aarhus University
 
@@ -121,7 +128,7 @@ National Science Centre Poland, OPUS-26 scheme (2024)
 *Journal of Linguistics* (2025) <br>
 *Journal of Phonetics* (2025) <br>
 *Journal of the Acoustical Society of America* (2024 x 2) <br>
-*Laboratory Phonology* (2023) <br>
+*Laboratory Phonology* (2023, 2025) <br>
 *Languages* (2024, 2025 x 2) <br>
 *Nydanske Sprogstudier* (2023) <br>
 *Ord & Sag* (2024) <br>
@@ -223,77 +230,90 @@ Multiple correspondence analysis
 
 ### Full term courses
 
+#### University of Oxford
+
+<font size='3' color='grey'>2025--2026</font> <br>
+*Phonetics and phonology* <br>
+Linguistics Preliminary Examinations <br>
+Co-convening. Four lectures on acoustic phonetics + weekly classes (two groups)
+
+<font size='3' color='grey'>2025--2026</font> <br>
+*Special topic in phonetics* <br>
+MSt/MPhil Linguistics, Philology and Phonetics option <br>
+One-on-one tutoring and convening
+
+<font size='3' color='grey'>2025--2026</font> <br>
+*Phonetics and phonology* <br>
+MSt/MPhil Linguistics, Philology and Phonetics option <br>
+Small-group tutoring
+
+<font size='3' color='grey'>2025</font> <br>
+*Phonetics* <br>
+MSt/MPhil Linguistics, Philology and Phonetics Foundation Course <br>
+Lecturing and convening
+
+
+
 #### Ludwig Maximilian University, Munich
 
 <font size='3' color='grey'>2023</font> <br>
 *Phonetics and statistics* <br>
 BA3 Phonetics and Speech Processing <br>
-Taught seminars, graded weekly exercises <br>
-Course coordinator: James Kirby
+Taught seminars, graded weekly exercises
 
 #### University of Amsterdam
 
 <font size='3' color='grey'>2022</font> <br>
 *Introduction to linguistics* <br>
 BA1 Linguistics <br>
-Taught seminars (two groups), graded final presentations <br>
-Course coordinator: Enoch O. Aboh
+Taught seminars (two groups), graded final presentations
 
 <font size='3' color='grey'>2021</font> <br>
 *Phonetics* <br>
 BA1 Linguistics <br>
 Taught seminars (two groups) in a hybrid format, graded weekly exercises <br>
-Course coordinator: Marijn van 't Veer <br>
 *Nominated for the Faculty of Humanities Education Award 2022*
 
 <font size='3' color='grey'>2021</font> <br>*Phonology* <br>
 BA2 Linguistics <br>
 Taught seminars in a hybrid format, graded exercises and final presentations <br>
-Course coordinator: Silke Hamann <br>
 *Nominated for the Faculty of Humanities Education Award 2022*
 
 #### Leiden University
 
 <font size='3' color='grey'>2022</font> <br>
 *Words, sentences, and sounds in interaction* <br>
-BA3 English Language & Culture <br>
-Co-taught and co-coordinated with Janet Grijzenhout
+BA3 English Language & Culture
 
 <font size='3' color='grey'>2022</font> <br>
 *Analyzing English words and sounds* <br>
 BA1 English Language & Culture <br>
-Taught seminars (two groups) and gave one lecture <br>
-Course coordinators: Bert Botma and Marion Elenbaas
+Taught seminars (two groups) and gave one lecture
 
 <font size='3' color='grey'>2019--2021</font> <br>*The phonetics of English* <br>
 BA1 English Language & Culture <br>
 2019: Taught seminars <br>
 2020: Taught seminars (three groups in person, one group online) and gave one online lecture <br>
-2021: Taught seminars in the first block <br>
-Course coordinator: Bert Botma
+2021: Taught seminars in the first block
 
 #### Aarhus University
 
 <font size='3' color='grey'>2016</font> <br>*Understanding linguistics* <br>
 BA1 Linguistics <br>
-Taught seminars (two groups) <br>
-Course coordinator: William McGregor
+Taught seminars (two groups)
 
 <font size='3' color='grey'>2014</font> <br>*Structure, meaning, and use* <br>
 BA2 Linguistics <br>
-Teaching assistant, gave feedback on assignments <br>
-Course coordinator: Jan Rijkhoff
+Teaching assistant, gave feedback on assignments
 
 <font size='3' color='grey'>2014</font> <br>
 *Danish and the languages of the World* <br>
 BA1 Linguistics <br>
-Teaching assistant, gave feedback on assignments <br>
-Course coordinator: Line Krogager Andersen
+Teaching assistant, gave feedback on assignments
 
 <font size='3' color='grey'>2013</font> <br>*Phonetics and phonology* <br>
 BA1 Linguistics <br>
-Taught seminars (three groups), graded assignments <br>
-Course coordinator: Marjoleine Sloos
+Taught seminars (three groups), graded assignments
 
 ### Workshops
 
