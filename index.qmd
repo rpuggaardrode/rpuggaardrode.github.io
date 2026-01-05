@@ -7,8 +7,10 @@ about:
   links:
     - icon: envelope
       text: Email
-      href: "mailto:r.puggaard@phonetik.uni-muenchen.de"
-    - text: "{{< iconify la university >}} Kellogg College"
+      href: "mailto:rasmus.puggaard-rode@ling-phil.ox.ac.uk"
+    - text: "{{< iconify la university >}} Department"
+      href: https://www.ling-phil.ox.ac.uk/people/rasmus-puggaard-rode
+    - text: "{{< iconify la university >}} College"
       href: https://www.kellogg.ox.ac.uk/our-people/rasmus-puggaard-rode/
     - icon: github
       text: GitHub

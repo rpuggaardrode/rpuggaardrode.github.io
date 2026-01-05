@@ -32,7 +32,7 @@ website:
       - text: "{{< iconify academicons orcid >}}"
         href: https://orcid.org/0000-0003-4522-9987
       - text: "{{< iconify la university >}}"
-        href: https://www.en.phonetik.uni-muenchen.de/people/staff/puggaard-rode_rasmus/index.html
+        href: https://www.ling-phil.ox.ac.uk/people/rasmus-puggaard-rode
       - icon: linkedin
         href: https://www.linkedin.com/in/rasmus-puggaard-rode-1972957b/
       - text: "{{< iconify simple-icons letterboxd >}}"
@@ -45,7 +45,7 @@ website:
         href: https://untappd.com/user/Rasmuspuggaard
       - icon: envelope
         aria-label: email
-        href: "mailto:r.puggaard@phonetik.uni-muenchen.de" 
+        href: "mailto:rasmus.puggaard-rode@ling-phil.ox.ac.uk" 
   
   
   page-footer: 
