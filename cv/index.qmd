@@ -53,7 +53,7 @@ Full semester exchange
 
 ## Research grants
 
-<font size='3' color='grey'>2024</font> <br> John Fell Oxford University Press Research Fund E1D00380, £9,858 <br>
+<font size='3' color='grey'>2026--2027</font> <br> John Fell Oxford University Press Research Fund E1D00380, £9,858 <br>
 *Danish /d/-vocalization in real and apparent time*
 
 <font size='3' color='grey'>2024</font> <br> Carlsberg Foundation Reintegration Fellowship (CF24-1380), DKK 1,899,313 (approx. €250,000) <br>
@@ -154,7 +154,7 @@ Springer (2023)
 *Australian Linguistic Society* (2025) <br>
 *Conference of the Student Organization for Linguistics in Europe* (2023) <br>
 *International Conference on Tone and Intonation* (2025) <br>
-*Laboratory Phonology* (2022) <br>
+*Laboratory Phonology* (2022, 2026) <br>
 *Phonology in the Nordic Countries* (2021)
 
 ## Affiliated research networks
@@ -235,6 +235,16 @@ Multiple correspondence analysis
 
 #### University of Oxford
 
+<font size='3' color='grey'>2026--2027</font> <br>
+*Experimental phonetics* <br>
+MSt/MPhil Linguistics, Philology and Phonetics option <br>
+Lecturing, one-on-one tutoring, convening
+
+<font size='3' color='grey'>2026</font> <br>
+*Phonetics and phonology* <br>
+Final Honours School in Linguistics, Philology and Phonetics <br>
+Four lab report seminars, small-group tutoring
+
 <font size='3' color='grey'>2025--2026</font> <br>
 *Phonetics and phonology* <br>
 Linguistics Preliminary Examinations <br>
@@ -254,7 +264,6 @@ Small-group tutoring
 *Phonetics* <br>
 MSt/MPhil Linguistics, Philology and Phonetics Foundation Course <br>
 Lecturing and convening
-
 
 
 #### Ludwig Maximilian University, Munich
