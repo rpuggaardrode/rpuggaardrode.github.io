@@ -73,6 +73,7 @@ Full semester exchange
 
 #### University of Oxford
 
+<font size='3' color='grey'>2026--</font> &emsp; &emsp; &ensp; Assessor for graduate student admissions <br>
 <font size='3' color='grey'>2025--</font> &emsp; &emsp; &ensp; Graduate student course supervisor <br>
 <font size='3' color='grey'>2025--</font> &emsp; &emsp; &ensp; Co-convenor of General Linguistics Seminar <br>
 <font size='3' color='grey'>2025--</font> &emsp; &emsp; &ensp; Member of Faculty Laboraties Committee
@@ -123,13 +124,14 @@ Student assistant
 #### Funding applications
 
 National Science Centre Poland, OPUS-26 scheme (2024)
+UK Research and Innovation, Research Software Maintenance Fund EoIs (2026)
 
 #### Journal articles
 
 *Computational Intelligence and Neuroscience* (2022) <br>
 *Glossa* (2021) <br>
 *Journal of Linguistics* (2025) <br>
-*Journal of Phonetics* (2025) <br>
+*Journal of Phonetics* (2025, 2026) <br>
 *Journal of the Acoustical Society of America* (2024 x 2) <br>
 *Laboratory Phonology* (2023, 2025) <br>
 *Languages* (2024, 2025 x 2) <br>
@@ -141,13 +143,14 @@ National Science Centre Poland, OPUS-26 scheme (2024)
 
 Brill (2024) <br>
 Oxford University Press (2025) <br>
-Springer (2023)
+Springer (2023) <br>
+University of Toronto Press (2026)
 
 #### Proceedings articles
 
 *International Congress of Phonetic Sciences* (2023) <br>
 *Interspeech* (2025) <br>
-*Møderne om udforskningen af dansk sprog* (2019, 2021)
+*Møderne om udforskningen af dansk sprog* (2019, 2021, 2025)
 
 #### Conference abstracts
 
@@ -159,6 +162,7 @@ Springer (2023)
 
 ## Affiliated research networks
 
+<font size='3' color='grey'>2025--</font> &emsp;&thinsp; Oxford Phonetics Laboratory <br>
 <font size='3' color='grey'>2022--2023</font> &emsp;&thinsp; [Empirical Foundations of Phonology (EmpiPhon)](https://aclc.uva.nl/content/research-groups/empiphon/empiphon.html){target="_blank"} <br>
 <font size='3' color='grey'>2020--2022</font> &emsp;&thinsp; Open Science Community, Leiden <br>
 <font size='3' color='grey'>2020--2021</font> &emsp;&thinsp; Tromsø/Verona phonology circle <br>
@@ -357,6 +361,18 @@ Course coordinator: Bert Botma
 Centre for Linguistics graduate school, Leiden University <br>
 Course coordinators: Fieke Schoots and Kristina Hettne
 
-### Evaluation
+## Thesis evaluation
+
+### Doctoral dissertations
+
+<font size='3' color='grey'>2026</font> <br>
+**Maria Evjen** <br>
+*The acoustics and perception of the Norwegian merger of /ʃ/ and /ç/* <br>
+University of Oslo <br>
+Supervised by Sverre Stausland Johnsen and Timo Roettger <br>
+Second opponent at public viva
+
+
+### Undergraduate theses
 
 <font size='3' color='grey'>2021</font> &emsp; Two BA theses in BA English Language & Culture, Leiden University

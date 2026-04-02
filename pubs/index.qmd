@@ -85,6 +85,8 @@ Goldshtein, Yonatan & **Rasmus Puggaard**. 2019. Overblik over danske dialektopt
 
 ### Conference and workshop presentations
 
+**Puggaard-Rode, Rasmus** & Nicolai Pharao. "Non-modal voice quality and pitch in the stød contrast of two Danish standard varieties", *Phonetics and Phonology in Denmark* 5, August 20--21, 2026, Aarhus University.
+
 **Puggaard-Rode, Rasmus**, Francesco Burroni & Aleese Block. "The acoustic and articulatory outcome of /d/-vocalisation in Modern Standard Danish". *Colloquium of the British Association of Academic Phoneticians* 38, April 8--10, 2026, University of Warwick, Coventry. [abstract](https://rasmuspuggaard.wordpress.com/wp-content/uploads/2026/02/2026_baap.pdf){target='_blank'}
 
 Block, Aleese, **Rasmus Puggaard-Rode** & Francesco Burroni. "Reconceptualizing soft d in Danish". *Fonologi i Norden* 10, February 20--21, 2025, University of Oslo. [abstract](https://rasmuspuggaard.wordpress.com/wp-content/uploads/2025/02/2025_fino_abs.pdf){target='_blank'} | [slides](https://rasmuspuggaard.wordpress.com/wp-content/uploads/2025/02/2025_fino.pdf){target='_blank'}
@@ -199,8 +201,11 @@ Sloos, Marjoleine, Liang Jie, Ne Xuechao, **Rasmus Puggaard Hansen**, Yan Mengzh
 
 ### Invited talks
 
+[see [Horslund et al. 2022](10.1080/03740463.2021.2022866){target='_blank'}, [Puggaard-Rode et al. 2024](10.1075/dia.23068.pug){target='_blank'}]{.aside}
+**Puggaard-Rode, Rasmus**. "The past and present of stop vocalization in Danish", *Seminaire de Recherche en Phonétique et Phonologie*, March 27, 2026, Université Sorbonne Nouvelle, Paris. [slides](https://rasmuspuggaard.wordpress.com/wp-content/uploads/2026/04/srpp.pdf){target='_blank'}
+
 [see [Puggaard-Rode 2024](https://www.sciencedirect.com/science/article/pii/S0095447024000603){target='_blank'}]{.aside}
-**Puggaard-Rode, Rasmus**. "Fonetik i fonologi. Laryngal hyperrealisme i danske konsonanter?", *Trends in Phonology fylder 50*, November 21, 2025, Royal Danish Academy of Arts and Letters. [slides](https://rasmuspuggaard.wordpress.com/wp-content/uploads/2025/12/2025_trends.pdf){target='_blank'}.
+**Puggaard-Rode, Rasmus**. "Fonetik i fonologi. Laryngal hyperrealisme i danske konsonanter?", *Trends in Phonology fylder 50*, November 21, 2025, Royal Danish Academy of Arts and Letters. [slides](https://rasmuspuggaard.wordpress.com/wp-content/uploads/2025/12/2025_trends.pdf){target='_blank'}
 
 [see [Goldshtein & Puggaard 2019](https://rasmuspuggaard.files.wordpress.com/2020/07/2019_ordsag.pdf){target='_blank'}, [Puggaard 2021](https://rasmuspuggaard.files.wordpress.com/2021/06/puggaard-2021_modeling-regional-variation-in-voice-onset-time-of-jutlandic-varieties-of-danish.pdf){target='_blank'}, [Puggaard-Rode 2023: chapter 6](http://dx.doi.org/10.48273/LOT0631){target='_blank'}, [2024](https://www.sciencedirect.com/science/article/pii/S0095447024000603){target='_blank'}]{.aside}
 **Puggaard-Rode, Rasmus**. "Variation in fine phonetic detail modulates the outcome of sound change. The case of stop lenition in Jutland Danish", December 7, 2023, Lancaster University Phonetics Lab. [slides](https://rpuggaardrode.github.io/lancaster23/#/title-slide){target='_blank'}
@@ -213,6 +218,8 @@ Steensig, Jakob & **Rasmus Puggaard**. “A syntax for conversation. Social acti
 Grijzenhout, Janet, **Rasmus Puggaard** & Bert Botma. “On peas and bees”, opening lecture for the academic year, BA English Language & Culture, September 3, 2019, Leiden University.
 
 ### Departmental talks and guest lectures
+
+Aleese Block & **Rasmus Puggaard-Rode**. "Reconceptualizing soft d in Danish", Institute for Phonetics and Speech Processing PhD and Postdoc Kolloquium, July 24, 2025, Ludwig Maximilian University of Munich.
 
 **Puggaard-Rode, Rasmus**, James Kirby & Nicolai Pharao. "Revisiting C*F*~0~ in Danish", Institute for Phonetics and Speech Processing PhD and Postdoc Kolloquium, December 5, 2024, Ludwig Maximilian University of Munich.
 
