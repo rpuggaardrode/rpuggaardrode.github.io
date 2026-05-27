@@ -277,13 +277,13 @@ Jepson, Kathleen & **Rasmus Puggaard-Rode**. "An iconic prosodic pattern in thre
 
 ### Software
 
-Kirby, James & **Rasmus Puggaard-Rode**. `praatsauce`. *Praat-based tools for spectral analysis*. Suite of Praat scripts, version 1.0.3. (April 2017--June 2025). [Available on GitHub](https://github.com/kirbyj/praatsauce){target='_blank'}.
+`praatpicture`. *Make Praat Picture style plots of acoustic data*. R package version 1.8.0. (August 2023--April 2026) [Available on CRAN](https://cran.r-project.org/web/packages/praatpicture/index.html){target='_blank'}.
 
-**Puggaard-Rode, Rasmus** & James Kirby. `sauceshelf`. *Analyze voice quality with various source algorithms*. R package version 0.1.4. (May--July 2025). [Available on GitHub](https://github.com/rpuggaardrode/sauceshelf){target='_blank'}.
+Kirby, James & **Rasmus Puggaard-Rode**. `praatsauce`. *Praat-based tools for spectral analysis*. Suite of Praat scripts, version 1.0.6. (April 2017--April 2026). [Available on GitHub](https://github.com/kirbyj/praatsauce){target='_blank'}.
 
-`praatpicture`. *Make Praat Picture style plots of acoustic data*. R package version 1.6.2. (August 2023--August 2025) [Available on CRAN](https://cran.r-project.org/web/packages/praatpicture/index.html){target='_blank'}.
+**Puggaard-Rode, Rasmus** & James Kirby. `sauceshelf`. *Analyze voice quality with various source algorithms*. R package version 0.1.7. (May 2025--April 2026). [Available on GitHub](https://github.com/rpuggaardrode/sauceshelf){target='_blank'}.
 
-`praatutils`. *Utilities for calling Praat from R*. R package version 0.0.2. (May--June 2025). [Available on GitHub](https://github.com/rpuggaardrode/praatutils){target='_blank'}.
+`praatutils`. *Utilities for calling Praat from R*. R package version 0.0.7. (May--December 2025). [Available on GitHub](https://github.com/rpuggaardrode/praatutils){target='_blank'}.
 
 `reapeR`. *Robust epoch and pitch estimation in R*. R package version 0.0.9. (October 2024--July 2025). [Available on GitHub](https://github.com/rpuggaardrode/reapeR){target='_blank'}.
 
@@ -295,11 +295,11 @@ Kirby, James & **Rasmus Puggaard-Rode**. `praatsauce`. *Praat-based tools for sp
 
 ### Tutorials
 
+**Puggaard-Rode, Rasmus**. 2026. Generating and analyzing multitaper spectra in R. *Linguistics Methods Hub*. doi:10.5281/zenodo.20070202. [link](https://lingmethodshub.github.io/content/R/multitaper-tutorial/){target='_blank'}
+
+**Puggaard-Rode, Rasmus**. 2026. Make Praat Picture-style plots of acoustic data in R. [link](https://rpuggaardrode.github.io/praatpicture_manual/){target='_blank'}
+
 **Puggaard-Rode, Rasmus** & James Kirby. 2025. PraatSauce workflow and parameters. [link](https://kirbyj.github.io/praatsauce/){target='_blank'}
-
-**Puggaard-Rode, Rasmus**. 2025. Generating and analyzing multitaper spectra in R. [link](https://rpuggaardrode.github.io/multitaper-tutorial/){target='_blank'}
-
-**Puggaard-Rode, Rasmus**. 2025. Make Praat Picture-style plots of acoustic data in R. [link](https://rpuggaardrode.github.io/praatpicture_manual/){target='_blank'}
 
 Harrington, Jonathan, Johanna Cronenberg & **Rasmus Puggaard-Rode**. 2024. An introduction to `emuR`. (In progress). [link](https://rpuggaardrode.github.io/emuintro/){target='_blank'}
 
