@@ -51,14 +51,14 @@ Before coming to Oxford, I was a postdoc in the [Spoken Language Processing grou
 
 <h2 style='text-align: center;'>News</h2>
 
+* I contributed to a paper that describes the translation of a patient-reported outcome measure, the Chronic Rhinosinusitis Control Test, into a broad range of languages. The project was spearheaded by [Ahmad Sedaghat](https://duckduckgo.com/?q=ahmad+sedaghat&ia=web){target='_blank'} and [Hye Pae](https://researchdirectory.uc.edu/p/paehe){target='_blank'} and is published in the [International Forum of Allergy and Rhinology](https://onlinelibrary.wiley.com/doi/10.1002/alr.70194){target='_blank'}.
+
+* [Josh Penney](https://researchers.mq.edu.au/en/persons/joshua-penney/){target='_blank'} and I co-wrote a paper on automatic identification of the onset of creaky voice that was accepted for this year's [Interspeech](https://interspeech2026.org/en-AU){target='_blank'} in Sydney. I won't be able to go, but if you'll be there, do make sure to talk to Josh about the work!
+
 * I wrote a tutorial on how to generate and analyze multitaper spectra in R which has now found a home on [Linguistics Methods Hub](https://lingmethodshub.github.io/content/R/multitaper-tutorial/){target='_blank'}.
 
 * I recently visited the University of Copenhagen to kickstart my small research grant from the John Fell Oxford University Press Fund to investigate Danish /d/-vocalization in real and apparent time using the [LANCHART corpus](https://lanchart.hum.ku.dk/){target='_blank'}. Thanks to everyone there for your hospitality!
 
 * I was at this year's [Colloquium of the British Association of Academic Phoneticians](https://sites.google.com/view/baap2026/home){target='_blank'} at the University of Warwick, where I presented collaborative work with [Francesco Burroni](https://sites.google.com/cornell.edu/francescoburroni/){target='_blank'} and [Aleese Block](https://www.en.phonetik.uni-muenchen.de/people/staff/block_aleese/index.html){target='_blank'} on the acoustic and articulatory outcome of /d/-vocalization in Danish. The presentation won the [Peter Ladefoged Award](https://warwick.ac.uk/fac/soc/al/research/baap2026/awards/){target='_blank'}. You can find the slides [here](https://rasmuspuggaard.wordpress.com/wp-content/uploads/2026/04/2026_baap_slides.pdf){target='_blank'}.
-
-* I gave a talk at the [Laboratoire de Phonétique et Phonologie](https://lpp.cnrs.fr/){target='_blank'} in Paris as part of the [Séminaires de Recherches en Phonétique et Phonologie](https://lpp.cnrs.fr/formation/srpp/){target='_blank'} series. I discussed several years of (collaborative work) on the synchrony and diachrony of stop vocalization in Danish. I had a great time discussing my work with the Paris phoneticians. You can see the slides [here](https://rasmuspuggaard.wordpress.com/wp-content/uploads/2026/04/srpp.pdf){target='_blank'}.
-
-* I was second opponent at [Maria Evjen](https://www.hf.uio.no/iln/english/people/aca/scandinavian-languages/temporary/mariaevj/){target='_blank'}'s [public viva](https://www.hf.uio.no/iln/english/research/news-and-events/events/disputations/2026/evjen.html){target='_blank'} at the University of Oslo. Maria and I had a really fun and engaging discussion about her work on the /ʃ/--/ç/ merger in Norwegian.
 
 <!-- * I will be at this year's [Phonetics and Phonology in Denmark](https://cc.au.dk/en/news-and-events/news/single-news/artikel/phonetics-and-phonology-in-denmark-5-ppdk-5){target='_blank'} meeting at Aarhus University, where I'll be presenting collaborative work with [Nicolai Pharao](https://nors.ku.dk/ansatte/?pure=da/persons/164799){target='_blank'} on the use of pitch and voice quality in the *stød* contrast in different varieties of Danish. -->
