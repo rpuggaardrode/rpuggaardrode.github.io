@@ -13,6 +13,8 @@ format:
 
 ### Journal articles (refereed)
 
+**Puggaard-Rode, Rasmus**, Nicolai Pharao & James Kirby. 2026. Obstruent co-intrinsic pitch and other demands on the larynx. Revisiting the mechanisms behind co-intrinsic pitch in Danish. *Journal of the International Phonetic Association* 56. doi:10.1017/S0025100326100930. [open access](https://doi.org/10.1017/S0025100326100930){target='_blank'} | [commented analysis code](https://rpuggaardrode.github.io/cf0dan/){target='_blank'} | [data and code](https://doi.org/10.17605/OSF.IO/67SHC)
+
 Pae, Hye K., Xia Detong, Sun Hanzhong, Chen Yudi, Yi Kwangoh, Song Minjeong, Eriko Sato, Ali R. Abasi, Jody Ballah, Anna Babarczy, Raymond Bertram, Agnieszka Biernacka, Mable Chan, Teresa Civera, Irina Dubinina, Doğu Erdener, María Isabel Maldonado García, Ali Garib, Tuomo Häikiö, Ho Fuk Chuen, Hung Li-Yu, R. Malatesha Joshi, Oksana Kanerva, Kiranpreet Kaur, Björn Köhnlein, Dalibor Kučera, Paula Luegi, Yustinus Calvin Gai Mali, Sivan Medina, Stefan Milosavljevič, Amna Mirza, Mohamed Y. Mwamzandi, Fatemeh Nami, Anabella-Gloria Nicolescu-Gorpin, Portia Padilla, Georgia Panayiotou, Manuel Perea, Luciano Perondi, Hiển Phạm, **Rasmus Puggaard-Rode**, Anurag Rimzhim, Sreeparna Sarkar, David L. Share, Gláucia V. Silva, Antônio Simões, Charlotte Stormbom, Titima Suthiwan, Katsuo Tamaoka, Mila Tasseva-Kurktchieva, Paweł Urbanik, An Van, Katie M. Phillips & Ahmad R. Sedaghat (2026) Translation and cross-cultural adaptation of the Chronic Rhinosinusitis Control Test for global use. *International Forum of Allergy and Rhinology*. doi:10.1002/alr.70194. [open access](https://onlinelibrary.wiley.com/doi/10.1002/alr.70194){target='_blank'}
 
 Horslund, Camilla Søballe, **Rasmus Puggaard-Rode** & Henrik Jørgensen. 2025. En sammenlignende vurdering af de tilgængelige lærebøger i dansk lydlære. *Danske Studier* 2025, 177--197. [pdf](https://rasmuspuggaard.wordpress.com/wp-content/uploads/2025/05/2025_danskestudier.pdf){target='_blank'}
@@ -164,9 +166,12 @@ Steensig, Jakob, Tina Mølgaard, **Rasmus Puggaard Hansen**, Emilie Tholstrup, N
 
 ### Posters
 
-[see [Watkins et al. 2025](https://www.isca-archive.org/interspeech_2025/watkins25_interspeech.html){target='_blank'}]{.aside}
-Watkins, Michaela, **Rasmus Puggaard-Rode**, Paula Boersma & Silke Hamann. "Robustness of F0 Ratio as a diagnostic. Comparing creaky voice in Danish and Seoul Korean", *Interspeech* 26, August 17--21, 2025, Ahoy Convention Centre, Rotterdam.
+**Puggaard-Rode, Rasmus** & Joshua Penney. "Automatic identification of the onset of creaky voice according to F0 instability", *Interspeech* 27, September 27--October 1, 2026, International Convention Centre, Sydney.
 
+[see [Watkins et al. 2025](https://www.isca-archive.org/interspeech_2025/watkins25_interspeech.html){target='_blank'}]{.aside}
+Watkins, Michaela, **Rasmus Puggaard-Rode**, Paul Boersma & Silke Hamann. "Robustness of F0 Ratio as a diagnostic. Comparing creaky voice in Danish and Seoul Korean", *Interspeech* 26, August 17--21, 2025, Ahoy Convention Centre, Rotterdam.
+
+[see [Puggaard-Rode et al. 2026](https://doi.org/10.1017/S0025100326100930){target='_blank'}]{.aside}
 **Puggaard-Rode, Rasmus**, James Kirby & Nicolai Pharao. "The source and significance of consonant-intrinsic pitch. New evidence from Danish", *Phonetics and Phonology in Europe* 6, June 25--27, 2025, University of the Balearic Islands, Palma de Mallorca. [abstract](https://agenda.uib.es/getFiles/hash/Y3UmMjNDO2UTN5gjNwUWNllTYmBTZjZTMAjZ0AjNyMz:Qy9zMThlV0lpQVIxMkRwenIxSEhMK2ZzTFFaZGlUaTBSaHdIVjJxZFp6SGlsY0Y4YWszaFc5TUFVQ1FzK1hDYXhhb3Y1M3ZtbWJ5akdaSTNrL09wS2dQTmRNUCtXUVZqZEJIVUptVnJ5SFQzdS8wRXQvVDB6UndiK0ZWaUFaYXBKYjIrT3FvK1BFWTh2bHZaRURhSkRINUtSRGtNU0hPbUVJV2FxZ1ppdi9JQVlpaElyZkhRQ2lrQ1ladElIQXVjN3B3bGdRU1pWbEJTYktKY2pVRzBmVjRzWHBnSUFuV2ZTTGppU2hNaWVONzFBeVFoaDR0NWxYV0VVRXQwOTFYOA==){target='_blank'} | [poster](https://rpuggaardrode.github.io/cf0dan/pape){target='_blank'}
 
 [see [Pharao & Puggaard-Rode 2025](https://doi.org/10.21437/TAI.2025-17){target='_blank'}]{.aside}
@@ -223,6 +228,7 @@ Grijzenhout, Janet, **Rasmus Puggaard** & Bert Botma. “On peas and bees”, op
 
 Aleese Block & **Rasmus Puggaard-Rode**. "Reconceptualizing soft d in Danish", Institute for Phonetics and Speech Processing PhD and Postdoc Kolloquium, July 24, 2025, Ludwig Maximilian University of Munich.
 
+[see [Puggaard-Rode et al. 2026](https://doi.org/10.1017/S0025100326100930){target='_blank'}]{.aside}
 **Puggaard-Rode, Rasmus**, James Kirby & Nicolai Pharao. "Revisiting C*F*~0~ in Danish", Institute for Phonetics and Speech Processing PhD and Postdoc Kolloquium, December 5, 2024, Ludwig Maximilian University of Munich.
 
 [see [Kirby et al. 2024](https://www.isca-archive.org/speechprosody_2024/kirby24_speechprosody.html){target='_blank'}]{.aside}
@@ -279,15 +285,15 @@ Jepson, Kathleen & **Rasmus Puggaard-Rode**. "An iconic prosodic pattern in thre
 
 ### Software
 
-`praatpicture`. *Make Praat Picture style plots of acoustic data*. R package version 1.8.0. (August 2023--April 2026) [Available on CRAN](https://cran.r-project.org/web/packages/praatpicture/index.html){target='_blank'}.
+`praatpicture`. *Make Praat Picture style plots of acoustic data*. R package version 1.9.0. (August 2023--July 2026) [Available on CRAN](https://cran.r-project.org/web/packages/praatpicture/index.html){target='_blank'}.
 
-Kirby, James & **Rasmus Puggaard-Rode**. `praatsauce`. *Praat-based tools for spectral analysis*. Suite of Praat scripts, version 1.0.6. (April 2017--April 2026). [Available on GitHub](https://github.com/kirbyj/praatsauce){target='_blank'}.
+Kirby, James & **Rasmus Puggaard-Rode**. `praatsauce`. *Praat-based tools for spectral analysis*. Suite of Praat scripts, version 1.0.8. (April 2017--May 2026). [Available on GitHub](https://github.com/kirbyj/praatsauce){target='_blank'}.
 
-**Puggaard-Rode, Rasmus** & James Kirby. `sauceshelf`. *Analyze voice quality with various source algorithms*. R package version 0.1.7. (May 2025--April 2026). [Available on GitHub](https://github.com/rpuggaardrode/sauceshelf){target='_blank'}.
+**Puggaard-Rode, Rasmus** & James Kirby. `sauceshelf`. *Analyze voice quality with various source algorithms*. R package version 0.1.9. (May 2025--May 2026). [Available on GitHub](https://github.com/rpuggaardrode/sauceshelf){target='_blank'}.
 
 `praatutils`. *Utilities for calling Praat from R*. R package version 0.0.7. (May--December 2025). [Available on GitHub](https://github.com/rpuggaardrode/praatutils){target='_blank'}.
 
-`reapeR`. *Robust epoch and pitch estimation in R*. R package version 0.0.9. (October 2024--July 2025). [Available on GitHub](https://github.com/rpuggaardrode/reapeR){target='_blank'}.
+`reapeR`. *Robust epoch and pitch estimation in R*. R package version 0.1.0. (October 2024--July 2026). [Available on GitHub](https://github.com/rpuggaardrode/reapeR){target='_blank'}.
 
 `getVOT`. *Predict voice onset time*. R package version 0.2.3. (February 2023--June 2025). [Available on GitHub](https://github.com/rpuggaardrode/getVOT){target='_blank'}.
 
