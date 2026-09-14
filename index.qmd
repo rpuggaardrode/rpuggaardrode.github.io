@@ -51,7 +51,7 @@ Before coming to Oxford, I was a postdoc in the [Spoken Language Processing grou
 
 <h2 style='text-align: center;'>News</h2>
 
-* An R package that I've been working on, `reapeR`, has not made it onto [CRAN](https://cran.r-project.org/web/packages/reapeR/index.html){target='_blank'}, the central repository of R packages. `reapeR` is an R-based interface to the C++ library [REAPER](https://github.com/google/REAPER){target='_blank'} (Robust Epoch And Pitch EstimatoR), originally written by David Talkin. More information can be found [here](https://rpuggaardrode.github.io/reapeR/){target='_blank'}.
+* An R package that I've been working on, `reapeR`, has now made it onto [CRAN](https://cran.r-project.org/web/packages/reapeR/index.html){target='_blank'}, the central repository of R packages. `reapeR` is an R-based interface to the C++ library [REAPER](https://github.com/google/REAPER){target='_blank'} (Robust Epoch And Pitch EstimatoR), originally written by David Talkin. More information can be found [here](https://rpuggaardrode.github.io/reapeR/){target='_blank'}.
 
 * I was at this year's [Phonetics and Phonology in Denmark](https://cc.au.dk/en/news-and-events/news/single-news/artikel/phonetics-and-phonology-in-denmark-5-ppdk-5){target='_blank'} meeting at Aarhus University, where I presented collaborative work with [Nicolai Pharao](https://nors.ku.dk/ansatte/?pure=da/persons/164799){target='_blank'} on the use of pitch and voice quality in the *stød* contrast in different varieties of Danish. Slides are available [here](https://rasmuspuggaard.wordpress.com/wp-content/uploads/2026/08/2026_ppdk.pdf){target='_blank'}. 
 
