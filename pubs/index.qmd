@@ -51,7 +51,9 @@ Steensig, Jakob, Karen Kiil Brøcker, Caroline Grønkjær, Magnus Glenvad Tind H
 
 ### Articles in conference proceedings
 
-Pharao, Nicolai & **Rasmus Puggaard-Rode**. 2025. A pitch accent for contrastive emphasis in Danish? In James Kirby, Francesco Burroni, Enkeleida Kapia, Felicitas Kleber & Sireemas Maspong (eds.), *Proceedings from the Third International Conference on Tone and Intonation*, 79--83. International Speech Communication Association: doi:10.21437/TAI.2025-17. [open access](https://doi.org/10.21437/TAI.2025-17){target='_blank'}.
+**Puggaard-Rode, Rasmus** & Joshua Penney. 2026. Automatic identification of the onset of creaky voice according to F0 instability. In Beena Ahmed, Michael Proctor, Vidhyasharan Sethu & Felicity Cox (eds.), *Proceedings of Interspeech 2026*, 1833--1838. International Speech Communication Association. doi:10.21437/Interspeech.2026-1430. [open access](https://www.isca-archive.org/interspeech_2026/puggaardrode26_interspeech.html){target='_blank'}.
+
+Pharao, Nicolai & **Rasmus Puggaard-Rode**. 2025. A pitch accent for contrastive emphasis in Danish? In James Kirby, Francesco Burroni, Enkeleida Kapia, Felicitas Kleber & Sireemas Maspong (eds.), *Proceedings from the Third International Conference on Tone and Intonation*, 79--83. International Speech Communication Association. doi:10.21437/TAI.2025-17. [open access](https://doi.org/10.21437/TAI.2025-17){target='_blank'}.
 
 Watkins, Michaela, **Rasmus Puggaard-Rode**, Paul Boersma & Silke Hamann. 2025. Robustness of F0 Ratio as a diagnostic. Comparing creaky voice in Danish and Seoul Korean. In Odette Scharenborg, Catharine Oertel & Khiet Truong (eds.), *Proceedings of Interspeech 2025*, 4203--4207. International Speech Communication Association. doi:10.21437/Interspeech.2025-1949. [open access](https://www.isca-archive.org/interspeech_2025/watkins25_interspeech.html){target='_blank'}.
 
@@ -166,7 +168,8 @@ Steensig, Jakob, Tina Mølgaard, **Rasmus Puggaard Hansen**, Emilie Tholstrup, N
 
 ### Posters
 
-**Puggaard-Rode, Rasmus** & Joshua Penney. "Automatic identification of the onset of creaky voice according to F0 instability", *Interspeech* 27, September 27--October 1, 2026, International Convention Centre, Sydney.
+[see [Puggaard-Rode & Penney 2026](https://www.isca-archive.org/interspeech_2026/puggaardrode26_interspeech.html){target='_blank'}]{.aside}
+**Puggaard-Rode, Rasmus** & Joshua Penney. "Automatic identification of the onset of creaky voice according to F0 instability", *Interspeech* 27, September 27--October 1, 2026, International Convention Centre, Sydney. [poster](https://rasmuspuggaard.wordpress.com/wp-content/uploads/2026/10/2026_interspeech_poster.pdf){target='_blank'}
 
 [see [Watkins et al. 2025](https://www.isca-archive.org/interspeech_2025/watkins25_interspeech.html){target='_blank'}]{.aside}
 Watkins, Michaela, **Rasmus Puggaard-Rode**, Paul Boersma & Silke Hamann. "Robustness of F0 Ratio as a diagnostic. Comparing creaky voice in Danish and Seoul Korean", *Interspeech* 26, August 17--21, 2025, Ahoy Convention Centre, Rotterdam.
